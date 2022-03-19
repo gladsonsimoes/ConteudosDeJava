@@ -1,3 +1,3 @@
 # HelpJava1
-Tipos e variaveis dentro da pasta TiposDeVariaveis
+Tipos de variaveis e alguns exemplos algoritmos 
 
