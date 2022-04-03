@@ -3,6 +3,8 @@
 Em Java os operadores lógicos utilizados são E (representado por &&) e OU (representado por ||)
 
 
+
+
 ==
 
 Utilizado quando desejamos verificar se uma variável é igual a outra.
