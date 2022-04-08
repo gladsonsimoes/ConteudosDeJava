@@ -12,3 +12,7 @@ Utilizado quando desejamos verificar se uma variável é igual a outra.
 !=
 
 Utilizado quando desejamos verificar se uma variável é diferente de outra.
+
+.equals(); para tipos wrappers (tipos normais)
+
+== ; para tipos primitivos 
