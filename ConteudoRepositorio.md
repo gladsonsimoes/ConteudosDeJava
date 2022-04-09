@@ -1,7 +1,11 @@
-# Variaveis e Exemplos!
+# Conteúdo do Repositório:
 Neste Repositório temos:
 
-Alguns Tipos de variaveis e alguns exemplos algoritmos 
+- Tipos de variaveis 
+ 
+- Exemplos de algoritmos 
+
+- Exercícios Resolvidos
 
 
 
