@@ -19,7 +19,7 @@ public class TiposPrimitivos {
 
         double variavelDouble = 1.0;
 
-        // o tipo normal(Wrapper) é Character o primitivo é char :
+        // tipo normal(Wrapper) é Character ,tipo primitivo é char :
         
         char variavelCharacter = 'A'; //variavel char declarando um caractere(simbolo ou letra!).
         char varivavelCharacter2 = scanner.nextLine().charAt(0); //variavel char esperando algum caractere do usuario.
