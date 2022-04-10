@@ -22,9 +22,9 @@ public class TiposPrimitivos {
         //tipo normal é Double e o tipo primitivo é double:
 
         double variavelDouble = 1.0; //variavel double declarando um numero real.
-        //não use virgula e sim ponto para não dar erro , exemplo 1.0 !
+        //ao declarar número real não use virgula e sim ponto para não dar erro , exemplo 1.0 !
         double variavelInformeDouble = scanner.nextDouble(); //variavel double esperando algum numero real ou inteiro do usuario.
-        //não use ponto e sim virgula para não dar erro , exemplo 1,0 !
+        //Ao digitar  no console um número real não use ponto e sim virgula para não dar erro , exemplo 1,0 !
         
        ---------------------------------------------------------------------------------------------------------
            
