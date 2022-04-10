@@ -2,6 +2,7 @@ package com.company.TiposDeVariaveis;
 
 public class TipoLogico {
     public static void main(String[] args) {
+        
         Boolean variavelVerdadeira = true;
         System.out.println("Variavel verdadeira: " + variavelVerdadeira);
 
@@ -12,9 +13,8 @@ public class TipoLogico {
 
         Integer idade = 18;
 
-        Boolean podetirarcarteira = idade>=18;
-        // System.out.println(" Pode tirar a carteira? " + podetirarcarteira );
-
+        Boolean podetirarcarteira = idade >= 18;
+        
         if (podetirarcarteira) {
             System.out.println("Sim! ele pode tirar a carteira!");
         } else {
