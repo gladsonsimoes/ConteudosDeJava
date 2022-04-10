@@ -14,19 +14,22 @@ public class TiposPrimitivos {
 
         long variavelLong = 1L;
 
+        //tipo normal = Float , tipo Primitivo = float.
         float variavelFloat = 1.0f;
+        -------------------------------------------------------------------------------------------------------
+        //tipo normal é Double e o tipo primitivo é double:
+
+        //variavel double declarando um numero real.(não use virgula e sim ponto)
+        double variavelDouble = 1.0;
         
-        //tipo normal(Wrapper) é Double e o tipo primitivo é double:
-
-        double variavelDouble = 1.0; //variavel double declarando um numero real.
-        double variavelDouble2 = scanner.nextDouble(); //variavel double esperando algum numero real ou inteiro do usuario
-        //lembrando que numero reais não pode digitar com um ponto e sim com virgula!
-
-        // tipo normal(Wrapper) é Character e o tipo primitivo é char :
+        //variavel double esperando algum numero real ou inteiro do usuario.(não digite ponto e sim virgula!).
+        double variavelInformeDouble = scanner.nextDouble();
+       ---------------------------------------------------------------------------------------------------------
+        // tipo normal é Character e o tipo primitivo é char :
         
         char variavelCharacter = 'A'; //variavel char declarando um caractere(um simbolo ,um numero ou uma letra!).
-        char varivavelCharacter2 = scanner.nextLine().charAt(0); //variavel char esperando algum caractere do usuario.
-        
+        char variavelInformeCharacter = scanner.nextLine().charAt(0); //variavel char esperando algum caractere do usuario.
+        ---------------------------------------------------------------------------------------------------------
         // tipo normal é Boolean e o tipo primitivo é boolean:
 
         boolean variavelBoolean = true;
