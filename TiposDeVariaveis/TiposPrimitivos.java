@@ -1,8 +1,7 @@
-package com.company.TiposDeVariaveis;
-
+import java.util.Scanner;
 public class TiposPrimitivos {
-
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
         
         String variavelString = ""; // o tipo String não possui um tipo primitivo equivalente
        
@@ -16,12 +15,15 @@ public class TiposPrimitivos {
         long variavelLong = 1L;
 
         float variavelFloat = 1.0f;
-
-        double variavelDouble = 1.0;
-
-        // tipo normal(Wrapper) é Character ,tipo primitivo é char :
         
-        char variavelCharacter = 'A'; //variavel char declarando um caractere(simbolo ou letra!).
+        //tipo normal(Wrapper) é Double e o tipo primitivo é double:
+
+        double variavelDouble = 1.0; //variavel double declarando um numero real.
+        double variavelDouble2 = scanner.nextDouble(); //variavel double esperando algum numero real ou inteiro do usuario.
+
+        // tipo normal(Wrapper) é Character e o tipo primitivo é char :
+        
+        char variavelCharacter = 'A'; //variavel char declarando um caractere(um simbolo ,um numero ou uma letra!).
         char varivavelCharacter2 = scanner.nextLine().charAt(0); //variavel char esperando algum caractere do usuario.
 
         boolean variavelBoolean = true;
