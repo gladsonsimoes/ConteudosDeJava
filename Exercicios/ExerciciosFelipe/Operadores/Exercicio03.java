@@ -1,5 +1,3 @@
-package com.company.operadores;
-
 /*
 Faça um programa que receba:
 O valor da conta de luz
@@ -18,26 +16,24 @@ import java.util.Scanner;
 public class Exercicio03 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        double total = 0.0;
         System.out.print("\nDigite o valor da conta de luz");
         System.out.print("\nR$: ");
-        double contaDeLuz = scanner.nextDouble();
+        total += scanner.nextDouble();
         System.out.print("\nDigite o valor da Conta de água");
         System.out.print("\nR$: ");
-        double contaDeAgua = scanner.nextDouble();
+        total += scanner.nextDouble();
         System.out.print("\nDigite o valor da Conta da Escola");
         System.out.print("\nR$: ");
-        double contaDaEscola = scanner.nextDouble();
+        total += scanner.nextDouble();
         System.out.print("\nDigite o valor da Fatura do Cartão");
         System.out.print("\nR$: ");
-        double contaDaFaturaCartao = scanner.nextDouble();
+        total += scanner.nextDouble();
         System.out.print("\nDigite o valor dos Gastos do supermercado");
         System.out.print("\nR$: ");
-        double gastoSupermecado = scanner.nextDouble();
+        total += scanner.nextDouble();
 
-        double valorFinal = 0;
-        valorFinal += contaDeLuz + contaDeAgua + contaDaEscola + contaDaFaturaCartao + gastoSupermecado;
-
-        System.out.print("\nGastos do Mês \nR$: " + valorFinal + "\n");
+        System.out.print("\nGastos do Mês \nR$: " + total + "\n");
     }
 }
+
