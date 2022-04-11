@@ -11,6 +11,10 @@ Se ela passar nessas duas condições, então mostre pra ela uma mensagem dizend
 import java.util.Scanner;
 
 public class Exercicio04 {
+    
+    static final int IDADE_MINIMA_PARA_APOSENTAR = 55;
+    static final int CONTRIBUICAO_MINIMA_COM_PREVIDENCIA_PARA_APOSENTAR = 25 ;
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -18,14 +22,11 @@ public class Exercicio04 {
         int informeAIdade = scanner.nextInt();
         System.out.print("\nQuantidade de tempo que contribuiu com previencia: ");
         int tempoComPrevidencia = scanner.nextInt();
-
-       boolean requisitosMinimos = informeAIdade >= 55 & informeTempoComPrevidencia >=25;
-
-       if(requisitosMinimos){
+        boolean requisitosMinimos = informeAIdade >= IDADE_MINIMA_PARA_APOSENTAR & informeTempoComPrevidencia >= CONTRIBUICAO_MINIMA_COM_PREVIDENCIA_PARA_APOSENTAR;
+        if(requisitosMinimos){
            System.out.println("\nOS Dados informados indica que o Senhor ou a Senhora pode-se aposentar");
-       } else {
+        } else {
            System.out.println("\nOs dados informados indica que o Senhor ou a Senhora não pode-se aposentar");
-       }
-
+        }
     }
 }
