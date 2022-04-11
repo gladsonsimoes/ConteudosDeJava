@@ -19,13 +19,12 @@ public class Exercicio04 {
         System.out.print("\nQuantidade de tempo que contribuiu com previencia: ");
         int tempoComPrevidencia = scanner.nextInt();
 
-        boolean idadeMinima = informeAIdade >= 55 ;
-        boolean tempoMinimoComPrevidencia = tempoComPrevidencia >= 25;
+       boolean requisitosMinimos = informeAIdade >= 55 & informeTempoComPrevidencia >=25;
 
-       if(idadeMinima & tempoMinimoComPrevidencia){
-           System.out.println("\nDados informados indica que o Senhor ou a Senhora pode-se aposentar");
+       if(requisitosMinimos){
+           System.out.println("\nOS Dados informados indica que o Senhor ou a Senhora pode-se aposentar");
        } else {
-           System.out.println("\nOs dados informados indica que o Senhor ou Senhora não pode-se aposentar");
+           System.out.println("\nOs dados informados indica que o Senhor ou a Senhora não pode-se aposentar");
        }
 
     }
