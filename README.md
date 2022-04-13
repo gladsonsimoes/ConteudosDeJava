@@ -10,7 +10,7 @@
 
 - ExemplosDeAlgoritmos
 
-  Os Exemplos de algoritmos é um pasta com
+  Os Exemplos de algoritmos é uma pasta com
   alguns exemplos que podem
   Ajudar a entender alguns Tipos de variaveis
 
