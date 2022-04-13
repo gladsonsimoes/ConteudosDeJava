@@ -14,5 +14,5 @@
   Exercícios Resolvidos que servem de base
   para ajudar em algoritmos futuros
   E Nele há alguns arquivos que "explica" 
-  Como que usam
+  de como que usar
 
