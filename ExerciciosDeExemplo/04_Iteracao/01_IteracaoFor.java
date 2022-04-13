@@ -35,13 +35,13 @@ public class IteracaoFor {
 //
 //            System.out.println("Iteração: " + i);
 //        }
-//      Integer[] produtos = new Integer[]{ 100, 225, 300 }; //vetor é obrigatorio usar tipos Wrappers
+//      Integer[] produtos = new Integer[]{ 100, 225, 300 }; //vetor é obrigatorio usar tipos Wrappers e lembre-se de .equals()
 //        for(int i = 0; i < produtos.length; i++) {
 //            Integer produto = produtos[i];
 //
 //            System.out.println("Produto de código: " + produto);
 //
-//            if (produto.equals(225)) {
+//            if (produto.equals(225)) {                              //use o .equals em vez de == 
 //                System.out.println("Produto encontrado!");
 //                break;
 //            }
