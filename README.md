@@ -20,4 +20,6 @@
 
   Exercícios Resolvidos que servem de base 
   para ajudar em algoritmos futuros
+  E Nele há algumas pastas que vem 
+  com exemplos para entender 
 
