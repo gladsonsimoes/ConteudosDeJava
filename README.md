@@ -9,17 +9,10 @@
   (Tipo Wrapper também conhecido como Tipo Normais)
   e também alguns Tipos Primitivos 
 
-- ExemplosDeAlgoritmos
+- ExercíciosDeExemplos
 
-  Os Exemplos de algoritmos contém
-  alguns exemplos que podem
-  ajuda-lo a entender alguns Tipos de variaveis
-
-
-- ExercíciosResolvidos
-
-  Exercícios Resolvidos que servem de base 
+  Exercícios Resolvidos que servem de base
   para ajudar em algoritmos futuros
-  E Nele há algumas pastas que vem 
-  com exemplos para entender 
+  E Nele há alguns arquivos que "explica" 
+  Como que usam
 
