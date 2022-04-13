@@ -2,11 +2,18 @@
 
 Neste Repositório temos:
 
-- Tipos
+- TiposDeVariaveis
 
-Tipos de variaveis
+Tipos de variaveis são alguns Tipos Wrapper e
+alguns Tipos Primitivos 
 
-Exemplos de algoritmos
+- ExemplosDeAlgoritmos
 
-Exercícios Resolvidos
+Exemplos de algoritmos alguns exemplos que podem
+Ajudar a entender alguns Tipos de variaveis
+
+
+- ExercíciosResolvidos
+
+Exercícios Resolvidos para dá uma ajuda 
 
