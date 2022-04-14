@@ -23,3 +23,8 @@ cliente.FazerAlgoDois(); // Este é o método não-estático
 Cliente.FazerAlgo(); // Este é o método estático
 
 void
+
+É tipo de retorno do método.
+Este tipo de retorno significa vazio/nada, 
+o método não dá retorno nenhum. Os métodos podem retornar qualquer tipo do seu projeto,
+até mesmo os criados por você.
