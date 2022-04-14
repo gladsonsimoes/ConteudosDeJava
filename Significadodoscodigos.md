@@ -28,3 +28,5 @@ void
 Este tipo de retorno significa vazio/nada, 
 o método não dá retorno nenhum. Os métodos podem retornar qualquer tipo do seu projeto,
 até mesmo os criados por você.
+
+https://pt.stackoverflow.com/questions/93048/o-que-significa-public-static-void-mainstring-args#:~:text=%C3%89%20tipo%20de%20retorno%20do,mesmo%20os%20criados%20por%20voc%C3%AA. 
