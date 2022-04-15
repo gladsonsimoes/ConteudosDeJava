@@ -1,6 +1,6 @@
 # Conteudo do Repositório:
 
-!Conteudo deste Repositório não executa normalmente com o package , criado somente para explicar!
+!Conteudo deste Repositório não executa normalmente com o package e também a classe , criado somente para explicar!
 
 - TiposDeVariaveis
 
