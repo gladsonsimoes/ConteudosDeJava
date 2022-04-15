@@ -1,6 +1,6 @@
 # Conteudo do Repositório:
 
-
+!Conteudo deste Repositório não executa normalmente , criado somente para explicar!
 
 - TiposDeVariaveis
 
