@@ -31,16 +31,16 @@ public class Exercicio02 {
         Double maiorFaturamento = 0.0;
         Integer semanaGanhadora = null;
         //mes é duas dimensoes [i][y]
-        for (int i = 0; i < mes.length; i++) {  //[i]  seleciona o vetor de uma dimensao
+        for (int i = 0; i < mes.length; i++) {  //[i]  seleciona o vetor de uma dimensao 
             Double[] semana = mes[i];
 
             Double faturamentoSemana = 0.0;
-            for (int y = 0; y < semana.length; y++) {  // [y] é o valor dentro do vetor  { 0 , 1 , 2 , 3 , 4, 5 , 6 }
-                faturamentoSemana += semana[y];  
+            for (int y = 0; y < semana.length; y++) {  // [y] é o valor dentro do vetor ( exemplo: { 0 , 1 , 2 , 3 , 4, 5 , 6 } )
+                faturamentoSemana += semana[y];  //aqui ele vai somar todos os valores dentro do vetor de uma dimensao ( como fosse assim { 0 + 1 + 2 ..} )
             }
-            Boolean esseFaturamentoEOMaior = faturamentoSemana > maiorFaturamento;
+            Boolean esseFaturamentoEOMaior = faturamentoSemana > maiorFaturamento; //nesta parte ele vai calcular qual é o maior 
             if (esseFaturamentoEOMaior) {
-                maiorFaturamento = faturamentoSemana;
+                maiorFaturamento = faturamentoSemana; // 
                 semanaGanhadora = i + 1; // Estou somando com um, pois, não quero mostrar de 0 a 3 e sim de 1 a 4.
             }
         }
