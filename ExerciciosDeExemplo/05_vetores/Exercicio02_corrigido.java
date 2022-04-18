@@ -30,11 +30,13 @@ public class Exercicio02 {
         Double[][] mes = new Double[][] { semanaUm, semanaDois, semanaTres, semanaQuatro };
         Double maiorFaturamento = 0.0;
         Integer semanaGanhadora = null;
-        for (int i = 0; i < mes.length; i++) {
+        //duas dimensoes [i][y]
+        for (int i = 0; i < mes.length; i++) {  //[i]  seleciona o vetor de uma dimensao
             Double[] semana = mes[i];
+
             Double faturamentoSemana = 0.0;
-            for (int y = 0; y < semana.length; y++) {
-                faturamentoSemana += semana[y];
+            for (int y = 0; y < semana.length; y++) {  // [y] é o valor dentro do vetor  { 0 , 1 , 2 , 3 , 4, 5 , 6 }
+                faturamentoSemana += semana[y];  
             }
             Boolean esseFaturamentoEOMaior = faturamentoSemana > maiorFaturamento;
             if (esseFaturamentoEOMaior) {
@@ -45,4 +47,3 @@ public class Exercicio02 {
         System.out.println("A semana " + semanaGanhadora + " teve o maior faturamento que foi de " + maiorFaturamento + ".");
     }
 }
-
