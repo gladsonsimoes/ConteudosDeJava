@@ -30,7 +30,7 @@ public class Exercicio02 {
         Double[][] mes = new Double[][] { semanaUm, semanaDois, semanaTres, semanaQuatro };
         Double maiorFaturamento = 0.0;
         Integer semanaGanhadora = null;
-        //duas dimensoes [i][y]
+        //mes é duas dimensoes [i][y]
         for (int i = 0; i < mes.length; i++) {  //[i]  seleciona o vetor de uma dimensao
             Double[] semana = mes[i];
 
