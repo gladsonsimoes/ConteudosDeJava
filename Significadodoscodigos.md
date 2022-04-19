@@ -30,3 +30,18 @@ o método não dá retorno nenhum. Os métodos podem retornar qualquer tipo do s
 até mesmo os criados por você.
 
 https://pt.stackoverflow.com/questions/93048/o-que-significa-public-static-void-mainstring-args#:~:text=%C3%89%20tipo%20de%20retorno%20do,mesmo%20os%20criados%20por%20voc%C3%AA. 
+
+
+Variaveis_Exemplos Em Java os operadores lógicos utilizados são E (representado por &&) e OU (representado por ||)
+
+==
+
+Utilizado quando desejamos verificar se uma variável é igual a outra.
+
+!=
+
+Utilizado quando desejamos verificar se uma variável é diferente de outra.
+
+.equals(); para tipos wrappers (tipos normais) , no caso usar outra variavel com numero precisa de equals , mas se usar um numero direto com um tipo normal pode se usado o famoso == ,
+
+== ; para tipos primitivos
