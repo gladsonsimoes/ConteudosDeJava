@@ -47,13 +47,13 @@ public class Exercicio04 {
         System.out.print("Informe um numero: ");
         Integer numero = scanner.nextInt();
         System.out.println("-----------------------");
-        imprimirTabuada(numero, 0);
+        imprimirTabuada(numero , 0);
 
     }
 
     static void imprimirTabuada(Integer multiplicando, Integer multiplicador) {
         System.out.println(multiplicando + " x " + multiplicador + " = " + (multiplicando * multiplicador));
-        if (++multiplicador <= 10) {
+        if (++multiplicador <= 10) {      //repulsividade foi declarado zero na linha 50 depois de numero utilizando então o multiplicador!
             imprimirTabuada(multiplicando, multiplicador);
         }
     }
