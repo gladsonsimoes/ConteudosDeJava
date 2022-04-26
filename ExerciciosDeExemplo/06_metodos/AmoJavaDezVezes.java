@@ -12,11 +12,11 @@ public class AmoJavaDezVezes {
 
     }
 
-    static void dezvezesjava(Integer romeroBrito) {
+    static void dezvezesjava(Integer vezesjava) {
 
-        if (++romeroBrito <= 10) {
-            System.out.println((romeroBrito) +" Eu amo Java");
-            dezvezesjava(romeroBrito);
+        if (++vezesjava <= 10) {
+            System.out.println((vezesjava) + " Eu amo Java");
+            dezvezesjava(vezesjava);
         }
 
     }
