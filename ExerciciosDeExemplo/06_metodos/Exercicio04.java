@@ -23,15 +23,15 @@ Crie um programa que receba um número qualquer do usuário e imprima a tabuada 
 Para fazer esse trabalho você deve usar a técnica da recursividade.
 
 Crie um método com o nome de "imprimirTabuada" que receba dois parâmetros  o multiplicando e o multiplicador.
- 
+
  O multiplicando será o número que o usuário digitou e o
  multiplicador será o número que irá ser incrementado a cada operação de multiplicação.
 
 Dentro do método "imprimirTabuada" você deve multiplicar um parâmetro pelo outro, mostrar para o usuário a multiplicação
  feita juntamente com o resultado, e, no final, incrementar o multiplicador e fazer uma nova chamada ao método
   "imprimirTabuada" com o multiplicador já incrementado.
-  
-  
+
+
 Obviamente, a primeira chamada, ao método "imprimirTabuada", será feita a partir do método "main". O parâmetro
 referente ao multiplicando você terá, pois, será o usuário que irá digitar pelo console, e o multiplicador você
 pode iniciar, na primeira chamada, com o número zero estaticamente. O método "imprimirTabuada" é que fará o
@@ -43,11 +43,18 @@ import java.util.Scanner;
 
 public class Exercicio04 {
     public static void main(String[] args) {
-        Scanner scanner =  new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Informe um numero: ");
+        Integer numero = scanner.nextInt();
+        System.out.println("-----------------------");
+        imprimirTabuada(numero, 0);
 
-        
     }
-    static void imprimirTabuada (){
-        
+
+    static void imprimirTabuada(Integer multiplicando, Integer multiplicador) {
+        System.out.println(multiplicando + " x " + multiplicador + " = " + (multiplicando * multiplicador));
+        if (++multiplicador <= 10) {
+            imprimirTabuada(multiplicando, multiplicador);
+        }
     }
 }
