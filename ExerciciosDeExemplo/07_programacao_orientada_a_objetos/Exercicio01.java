@@ -17,6 +17,7 @@ Feito isso, implemente o método main do programa.
 
 Nele você vai criar uma variável do tipo Produto e depois usar essa
 variável para invocar o método que valida a necessidade de reposição de estoque.
+
 No final, você vai exibir, no console, se é necessária a reposição ou não.
  */
 
