@@ -25,7 +25,7 @@ public class Exercicio01 {
         Produto1 produto = new Produto1();
 
         produto.nome = "produtor";
-        produto.quantidadeEstoque = 4;
+        produto.quantidadeEstoque = 10;
 
 
     }
