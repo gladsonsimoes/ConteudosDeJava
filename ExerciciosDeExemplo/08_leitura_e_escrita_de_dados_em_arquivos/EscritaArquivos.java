@@ -1,11 +1,14 @@
 package com.company.programacao_orientada_a_objetos.leitura_e_escrita_de_dados_em_arquivos;
 
+import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class EscritaArquivos {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
 
         ArrayList<String> linhas = new ArrayList<>();
@@ -18,6 +21,10 @@ public class EscritaArquivos {
 
         }
          //path um caminho - paths varios caminhos
-        Path arquivo =                             
+        Path arquivos = Paths.get("C:\\Users\\Administrador\\Desktop\\arquivo.txt");
+        Files.write(arquivos , linhas);
+
+        scanner.close();
+        System.out.println("Fim.....");
     }
 }
