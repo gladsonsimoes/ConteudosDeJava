@@ -1,1 +1,23 @@
-saa
+package com.company.programacao_orientada_a_objetos.leitura_e_escrita_de_dados_em_arquivos;
+
+import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class EscritaArquivos {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        ArrayList<String> linhas = new ArrayList<>();
+
+        for(int i = 0 ; i < 5 ; i++) {
+            System.out.print("Jogador " + i + ": ");
+            String nome =  scanner.nextLine();
+
+            linhas.add(nome);
+
+        }
+         //path um caminho - paths varios caminhos
+        Path arquivo =                             
+    }
+}
