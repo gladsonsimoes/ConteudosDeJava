@@ -1,7 +1,6 @@
 # Lista dos exercicios feitos por mim e corrigidos
 
-### 01. Variaveis e constantes
-[Clique para ver](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/01_variaveis_e_constantes/)
+### 01. Variaveis e constantes [Clique para ver](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/01_variaveis_e_constantes/)
  
 ### 02. Operadores
 [Clique para ver](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/02_operadores/)
