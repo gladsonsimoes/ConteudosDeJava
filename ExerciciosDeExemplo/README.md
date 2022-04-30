@@ -1,4 +1,4 @@
-# Lista dos exercicios feitos por mim e corrigidos
+# Lista dos exercicios
 
 ### 01. Variaveis e constantes [<> arquivo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/01_variaveis_e_constantes/)
  
