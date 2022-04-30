@@ -15,6 +15,7 @@
   para ajudar em algoritmos futuros
   E Nele há alguns arquivos que "explica" 
   de como que usar
+
 ##
 
 ## Lista dos exercicios
