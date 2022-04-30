@@ -1,6 +1,6 @@
 # Lista dos exercicios feitos por mim e corrigidos
 
-### 01. Variaveis e constantes
+### 01. Variaveis e constantes <a href="https://www.oracle.com/br/java/"> 
 
 ### 02. Operadores
 
