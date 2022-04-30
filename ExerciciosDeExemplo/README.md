@@ -7,7 +7,7 @@
 ### 03. Estrutura De Decisao [<> arquivo ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/03_estrutura_de_decisao/)
 
 ### 04. Iteração [<> arquivo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/04_Iteracao/)
-
+### laços de repetição - for ou while 
 ### 05. Vetores [<> arquivo ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/05_vetores/)
 
 ### 06. Metodos [<> arquivo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
