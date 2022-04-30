@@ -15,8 +15,9 @@
   para ajudar em algoritmos futuros
   E Nele há alguns arquivos que "explica" 
   de como que usar
+##
 
-# Lista dos exercicios
+## Lista dos exercicios
 
 ### 01. Variaveis e constantes [<> arquivo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/01_variaveis_e_constantes/)
  
