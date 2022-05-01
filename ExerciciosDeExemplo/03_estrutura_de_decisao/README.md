@@ -1,6 +1,6 @@
 # Estrutura de decisao
- ### - decisao de resposta , em alguns caso um ou outro facilita 
- ### exemplo if e else
+ ### decisao de resposta , em alguns caso um ou outro facilita 
+ ### - exemplo if e else
  ~~~java
     if (notaAluno >=6 | notaAluno == 10){
      System.out.println("aprovado");
@@ -12,7 +12,7 @@
      System.out.println("reprovado");
    }
 ~~~
-### exemplo switch:
+### - exemplo switch:
 ~~~java
  //para funcionar do jeito if o codigo ficaria muito longo. 
  //Ou seja colocar cada numero para representa o case , nesse caso o switch não seria uma boa opção!
