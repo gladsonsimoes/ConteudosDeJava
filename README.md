@@ -29,18 +29,24 @@ para pesquisar o que precisa clique no simbolo:
 ### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/02_operadores/)
 ----
 ### [03 - Estrutura De Decisao (if ou switch) ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/03_estrutura_de_decisao/)
-if | switch
+### if | switch
+
 ----
 ### [04 - Iteracao (for ou while) ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/04_Iteracao/)
-for | while
+### for | while
+
 ----
 ### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/05_vetores/)
 ----
 ### [06 - Metodos (static | void e return)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
-static | void e return
+### static | void e return
+
 ----
 ### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/07_programacao_orientada_a_objetos/)
-class | static | get e set - Getter and setter
+### class | static | get e set - Getter and setter
+
 ----
-### [08 - leitura e escrita de dados em arquivos (ArrayList)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/08_leitura_e_escrita_de_dados_em_arquivos/)
+### [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/08_leitura_e_escrita_de_dados_em_arquivos/)
+### ArrayList
+
 ----
