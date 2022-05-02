@@ -29,7 +29,7 @@
 ----
 ### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/05_vetores/)
 ----
-### [06 - Metodos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
+### [06 - Metodos(static e return)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
 ----
 ### [07 - programacao orientada a objetos (static e class)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/07_programacao_orientada_a_objetos/)
 ----
