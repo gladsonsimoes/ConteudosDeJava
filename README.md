@@ -1,8 +1,5 @@
 # Conteudo do Repositório:
 
-
-!Conteudo deste Repositório não executa normalmente com o package e também a classe , criado somente para explicar!
-
 para pesquisar o que precisa clique no simbolo:  
 
 <img src="https://github.com/gladsonsimoes/gladsonsimoes/blob/main/pesquisagithub.png"/>
