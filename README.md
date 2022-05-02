@@ -34,7 +34,7 @@ para pesquisar o que precisa clique no simbolo:
 ----
 ### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/05_vetores/)
 ----
-### [06 - Metodos(static e return)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
+### [06 - Metodos(static (void e return) )](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
 ----
 ### [07 - programacao orientada a objetos (static e class | get e set(Getter and setter))](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/07_programacao_orientada_a_objetos/)
 ----
