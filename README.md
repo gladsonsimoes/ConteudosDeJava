@@ -44,6 +44,6 @@ para pesquisar o que precisa clique no simbolo:
 
 ----
 ### [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/08_leitura_e_escrita_de_dados_em_arquivos/)
-### - ArrayList
+### - ArrayList | throws | Path | readAllLines
 
 ----
