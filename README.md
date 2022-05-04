@@ -47,3 +47,7 @@ para pesquisar o que precisa clique no simbolo:
 ### - ArrayList | throws | Path | readAllLines
 
 ----
+### [09 - ALgoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/algoritmos_avancado/)
+----
+### [10 - Acessando Atributos de Objetos ](/)
+----
