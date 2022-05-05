@@ -20,7 +20,8 @@ para pesquisar o que precisa clique no simbolo:
 
 ##
 
-## Lista dos exercicios
+## Lista dos exercicios (Lógica de Programação) 
+
 ### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/01_variaveis_e_constantes/)
 ----
 ### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/02_operadores/)
@@ -50,4 +51,9 @@ para pesquisar o que precisa clique no simbolo:
 ### [09 - ALgoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/algoritmos_avancado/)
 ----
 ### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/acessando_atributos_de_objetos/)
+----
+
+## Lista de exercicios (Orientacao a objetos part 1)
+
+### [](/)
 ----
