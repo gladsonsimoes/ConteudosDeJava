@@ -53,7 +53,11 @@ para pesquisar o que precisa clique no simbolo:
 ### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/acessando_atributos_de_objetos/)
 ----
 
-## Lista de exercicios (Orientacao a objetos part 1)
+## Lista de exercicios (Orientacao a objetos)
 
-### [](/)
+### [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/acessando_atributos_de_objetos/)
+----
+### [02 - Composição Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/composicao_objetos/)
+----
+### [03 - Valores Padrão ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/valores_padrao/)
 ----
