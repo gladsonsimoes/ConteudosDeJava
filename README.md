@@ -33,7 +33,7 @@ para pesquisar o que precisa clique no simbolo:
 ### - for | while
 ----
 ### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/05_vetores/)
-### -  Vetor String[]
+### -  Vetor = []
 ----
 ### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/06_metodos/)
 ### - static | void e return
