@@ -1,5 +1,5 @@
-
-Composição de objetos e chamada de métodos
+~~~java
+/* posição de objetos e chamada de métodos
 
 Vamos aproveitar a ideia do último exercício e aprender um pouco mais.
 Imagine agora que você precise criar um programa para fazer uma pessoa caminhar
@@ -25,4 +25,5 @@ e chamar os métodos apropriados.
 
 4.Compile e execute a classe Passeio, 
 você deverá ver no console o nome da pessoa e do cachorro que estão passeando.
-
+*/
+~~~
