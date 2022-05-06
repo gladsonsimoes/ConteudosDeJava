@@ -50,7 +50,7 @@ para pesquisar o que precisa clique no simbolo:
 ----
 ## Lista de exercicios (Orientacao a objetos)
 
-### [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/acessando_atributos_de_objetos/)
+### [01 - Criando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/acessando_atributos_de_objetos/)
 ----
 ### [02 - Composição Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/composicao_objetos/)
 ----
