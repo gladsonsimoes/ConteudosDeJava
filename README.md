@@ -56,4 +56,4 @@ para pesquisar o que precisa clique no simbolo:
 ----
 ### [03 - Valores Padrão ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/valores_padrao/)
 ----
-### [04 - array](/)
+### [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/array/)
