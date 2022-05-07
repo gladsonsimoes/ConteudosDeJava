@@ -11,7 +11,7 @@ listas de objetos.
 
 Crie a classe "Pessoa" e adicione um atributo do tipo "Cachorro".
 Assim estamos dizendo que uma "Pessoa" tem um "Cachorro"
-(essa classe é a mesma dos últimos exercícios).
+(essa classe é a mesma dos últimos exercícios). <https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/acessando_atributos_de_objetos/exercicio01>
 
 Vamos criar uma classe chamada de "Caminhada" com um método "andar" 
 que recebe como parametro um ojbeto do tipo "Pessoa".
