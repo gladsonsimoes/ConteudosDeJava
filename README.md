@@ -4,13 +4,6 @@ para pesquisar o que precisa clique no simbolo:
 
 <img src="https://github.com/gladsonsimoes/gladsonsimoes/blob/main/pesquisagithub.png"/>
 
-- TiposDeVariaveis
-
-  Os Tipos de variaveis contém
-  algumas variáveis Tipos Wrapper
-  (Tipo Wrapper também conhecido como Tipo Normais)
-  e também alguns Tipos Primitivos 
-
 - ExercíciosDeExemplos
 
   Exercícios Resolvidos que servem de base
@@ -19,6 +12,8 @@ para pesquisar o que precisa clique no simbolo:
   de como que usar (Cada um tem um README para explicar)
 
 ## [# Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//)
+### tipos de variaveis wrapper e primitive
+----
 
 ## Exercicios - Lógica de Programação 
 
