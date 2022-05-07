@@ -1,5 +1,5 @@
 
-## [# Tipos de variaveis](/)
+## [# variaveis](/)
 ---
 ## Lista dos exercicios (Lógica de Programação) 
 ### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/01_variaveis_e_constantes/)
