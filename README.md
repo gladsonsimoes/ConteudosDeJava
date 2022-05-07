@@ -18,7 +18,7 @@ para pesquisar o que precisa clique no simbolo:
   E Nele há alguns arquivos que "explica" 
   de como que usar (Cada um tem um README para explicar)
 
-## [# Tipos de Variaveis](/)
+## [# Tipos de Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//)
 
 ## Lista dos exercicios (Lógica de Programação) 
 
