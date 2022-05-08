@@ -15,14 +15,14 @@ public class Principal {
         estoque.produtos = new Produto[quantidadeProdutos];
         //objeto "estoque" com o vetor "produtos"
         //"produtos" é um vetor do Produto[] da classe Estoque
-        //eu crio um objeto e um vetor de Produto
-        //e abrindo um vetor da classe Produto e colocando a quantidadedeprodutos
+        //eu crio um objeto "estoque" e um vetor de Produto "produtos"
+        //e abrindo um vetor da classe Produto e colocando o objeto "quantidadedeprodutos"
         //para informar quantos produtos que o usuario digitou
 
         for (int i = 0; i < estoque.produtos.length; i++){
-        //usando o atributo "estoque" e o atributo "produtos" no laço de repetição (for)
+        //usando o objeto "estoque" e o vetor "produtos" no laço de repetição (for)
         //o vetor "produtos" usando length para
-        //ler cada quantidade de Produto[quantidadedeProdutos]
+        //ler a quantidade do vetor Produto "[quantidadedeProdutos]"
 
         estoque.produtos[i] =  new Produto();
         //usando o [i] para representar cada quantidade de produtos
