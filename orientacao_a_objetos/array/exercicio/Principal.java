@@ -34,6 +34,6 @@ public class Principal {
         estoque.produtos[i].quantidade = scanner.nextInt();
         scanner.nextLine();
         }
-        estoque.listarProdutos(); //para imprimir do metodo descrever de cada item
+        estoque.listarProdutos(); //para imprimir do metodo "descrever" de cada item
     }
 }
