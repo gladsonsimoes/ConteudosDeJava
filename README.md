@@ -6,7 +6,9 @@ para pesquisar o que precisa clique no simbolo:
 
 Matéria em java para Revisar
 
-## [# Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//)
+# Tipos de Variaveis
+
+## [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//)
 ### tipos de variaveis wrapper e primitive
 ----
 
