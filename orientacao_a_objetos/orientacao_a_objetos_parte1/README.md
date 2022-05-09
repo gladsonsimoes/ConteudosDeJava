@@ -1,6 +1,6 @@
 # Lista de exercicios (Orientacao a objetos)
 
-### [01 - Criando atributos de objetos](/)
+### [01 - Criando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/)
 ----
 ### [02 - Composição Objetos ](/)
 ----
