@@ -6,7 +6,7 @@
 ----
 ### [03 - Valores Padrão ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/valores_padrao/)
 ----
-### [04 - array](/)
+### [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/array/exercicio/)
 ----
 ### [05 - This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/o_objeto_this/)
 ----
