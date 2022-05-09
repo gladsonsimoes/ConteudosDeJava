@@ -4,11 +4,10 @@ para pesquisar o que precisa clique no simbolo:
 
 <img src="https://github.com/gladsonsimoes/gladsonsimoes/blob/main/pesquisagithub.png"/>
 
-- ExercíciosDeExemplos
 
-  Exercícios Resolvidos que servem de base
-  para ajudar em algoritmos futuros
-  E Nele há alguns arquivos que "explica" 
+ Exercícios Resolvidos que servem de base
+para ajudar em algoritmos futuros
+E Nele há alguns arquivos que "explica" 
   de como que usar (Cada um tem um README para explicar)
 
 ## [# Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//)
