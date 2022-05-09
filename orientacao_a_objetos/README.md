@@ -10,6 +10,8 @@
 ----
 ### [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/array/)
 ----
+### [05 - This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/o_objeto_this/)
+----
 
 ## Parte 2
 
