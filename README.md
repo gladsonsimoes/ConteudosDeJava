@@ -12,7 +12,7 @@ Matéria em java para Revisar
 ### tipos de variaveis wrapper e primitive
 ----
 
-# Exercicios - Lógica de Programação 
+# Lógica de Programação 
 
 ### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/)
 ----
@@ -40,7 +40,7 @@ Matéria em java para Revisar
 ----
 ### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/acessando_atributos_de_objetos/)
 ----
-# Exercicios - Orientacao a objetos
+# Orientacao a objetos
 
 ## Parte 1
 
