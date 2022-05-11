@@ -2,7 +2,8 @@
 ## Qual a diferença entre matriz e array?
 ### Array é o nome inglês para o que chamamos de vetor. Um vetor é uma matriz de uma dimensão só, ou seja, tem apenas uma linha ou uma coluna de dados. Normalmente usamos o termo matriz quando há mais de uma dimensão, então tem pelo menos linhas e colunas, pode ter outras dimensões
 
-
+Google Academico para usar no TCC
+https://scholar.google.com.br/?hl=pt
 
 Quero entender o que significa cada item de 
 public static void main(String[] args) 
