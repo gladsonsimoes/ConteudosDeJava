@@ -8,11 +8,8 @@ Você faz questão de ser o programador desse sistema,
 no entanto, você pediu que seu analista de sistemas 
 criasse um diagrama de classes simples para criar as primeiras classes do projeto.
 
-
-
 Uma conta a pagar possui uma descrição, valor, data de vencimento e fornecedor.
 Um fornecedor é uma entidade que possui apenas o nome.
-
 
 Agora você deve criar o código-fonte das classes ContaPagar e Fornecedor. 
 Note que existem dois construtores na classe ContaPagar, sendo um construtor padrão (sem parâmetros),
