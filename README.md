@@ -16,9 +16,9 @@ Matéria em java para Revisar
 
 ### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/)
 ----
-### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/)
+### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) - Usando paratense para aplicar Fórmula matemática em java.
 ----
-### [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) - if | switch
+### [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) - if | else | switch | case 
 ----
 ### [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) - laço de repetição : for | while
 ----
