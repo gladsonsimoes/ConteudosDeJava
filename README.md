@@ -20,7 +20,7 @@ Matéria em java para Revisar
 ----
 ### [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) - if | switch
 ----
-### [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) - for | while
+### [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) - laço de repetição : for | while
 ----
 ### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/)  - Vetor = []
 ----
