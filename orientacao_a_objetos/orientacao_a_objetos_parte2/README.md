@@ -10,4 +10,11 @@
 ----
 ### [05 - modificadores_static_e_final](/)
 ----
-### [06 - desafio_static_e_final_5_11](/)
+###[06 - desafio_objeto_this_e_construtores](/)
+----
+### [07 - desafio_static_e_final_5_11](/)
+----
+### [08 - enumeracoes 5 12](/)
+----
+### [09 - desafio_pacotes_e_enumeracoes_5_13](/)
+----
