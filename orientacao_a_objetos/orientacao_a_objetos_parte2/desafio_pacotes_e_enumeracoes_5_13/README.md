@@ -1,1 +1,47 @@
+~~~java
+/*
 
+//Crie uma enumeração chamada SituacaoConta com as seguintes constantes: PENDENTE, PAGA e CANCELADA.
+ - criar enum (facil)
+
+//Inclua um atributo chamado "situacaoConta" do tipo SituacaoConta na classe ContaPagar.
+- fiquei em duvida em criar um atributo (ESTUDAR MAIS)
+
+//O atributo "situacaoConta" deve possuir apenas o método getter.
+
+//deve sempre passar pelo método pagar().
+- o metodo já foi criado na pasta (desafio objeto this e construtores)
+
+//No construtor padrão (o que não recebe parâmetros) da classe ContaPagar,
+da pasta (desafio objeto this e construtores)
+
+//atribua a constante PENDENTE (da SituacaoConta) à variável "situacaoConta",
+
+
+assim, todas as contas a pagar instanciadas ficarão com o status PENDENTE por padrão.
+
+No construtor que recebe os parâmetros, lembre de invocar o construtor padrão usando a instrução this(),
+
+pois também neste caso é importante que a "situacaoConta" seja definida com a constante PENDENTE.
+O método pagar() deve verificar a situação da conta antes de efetivar o pagamento.
+ Se a situação for CANCELADA ou PAGA,
+ uma mensagem de erro deve ser exibida ao usuário.
+ Uma conta só deve ser paga se a situação atual for PENDENTE.
+No caso de uma conta ser paga através do método pagar(), não esquecer de atribuir a constante PAGA
+ à variável "situacaoConta".
+Crie um método cancelar() na classe ContaPagar que muda a situação da conta para CANCELADA
+e exibe uma mensagem para o usuário.
+ A regra neste caso é a seguinte: não se pode cancelar uma conta que já foi cancelada ou paga.
+Ok, seu analista lhe deu muito trabalho,
+mas pense como isso será útil para você aprender sobre as enumerações,
+ pacotes e, claro, praticar Java. :)
+
+Quando terminar todas as solicitações do analista,
+ modifique a classe Principal do desafio anterior para o código-fonte abaixo, compile tudo e execute.
+
+Preste bastante atenção se todas as regras estão sendo executadas corretamente. Só para lembrar:
+Uma conta que já foi paga não pode ser paga novamente e nem cancelada.
+Uma conta que já foi cancelada não pode ser cancelada novamente e nem paga.
+Boa sorte!
+
+ */
