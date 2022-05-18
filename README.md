@@ -30,7 +30,7 @@ Matéria em java para Revisar
 ----
 ### [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) - ArrayList | throws | Path | readAllLines
 ----
-### [09 - ALgoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
+### [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 ----
 ### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/acessando_atributos_de_objetos/)
 ----
