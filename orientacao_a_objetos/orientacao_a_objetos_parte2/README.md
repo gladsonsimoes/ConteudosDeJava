@@ -10,7 +10,7 @@
 ----
 ### [05 - modificadores_static_e_final](/)
 ----
-###[06 - desafio_objeto_this_e_construtores](/)
+### [06 - desafio_objeto_this_e_construtores](/)
 ----
 ### [07 - desafio_static_e_final_5_11](/)
 ----
