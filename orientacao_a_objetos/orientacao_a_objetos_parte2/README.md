@@ -14,7 +14,7 @@
 ----
 ### [07 - desafio_static_e_final_5_11](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_static_e_final_5_11/)
 ----
-### [08 - enumeracoes 5 12](/)
+### [08 - enumeracoes 5 12](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/enumeracoes_5_12/)
 ----
-### [09 - desafio_pacotes_e_enumeracoes_5_13](/)
+### [09 - desafio_pacotes_e_enumeracoes_5_13](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_pacotes_e_enumeracoes_5_13/)
 ----
