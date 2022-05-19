@@ -9,7 +9,7 @@ public class ContaPagar {
     public ContaPagar() {
         this.situacaoConta = SituacaoConta.PENDENTE;
     }
-    public ContaPagar(String descricao, Double valor, String dataVencimento, Fornecedor fornecedor) {
+    public ContaPagar(String descricao, Double valor, String dataVencimento, Fornecedor fornecedor) { //4 parametros
         this();
         this.descricao = descricao;
         this.valor = valor;
