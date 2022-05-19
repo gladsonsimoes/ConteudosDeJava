@@ -10,7 +10,7 @@ public class ContaPagar {
         this.situacaoConta = SituacaoConta.PENDENTE;
     }
     public ContaPagar(String descricao, Double valor, String dataVencimento, Fornecedor fornecedor) { //4 parametros
-        this();
+        this(); //usando o this situacaoConta sem colocar parametro.
         this.descricao = descricao;
         this.valor = valor;
         this.dataVencimento = dataVencimento;
