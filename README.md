@@ -4,7 +4,7 @@ para pesquisar o que precisa clique no simbolo:
 
 <img src="https://github.com/gladsonsimoes/gladsonsimoes/blob/main/pesquisagithub.png"/>
 
-Matéria em java para Revisar
+Aqui estão com todos os links das pastas para navegar com mais facilidade , só basta clicar nas palavras azuis.
 
 # Tipos de Variaveis
 
