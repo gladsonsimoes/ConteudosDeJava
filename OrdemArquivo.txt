@@ -1,4 +1,20 @@
+Para ver com mais facilidade baixando o arquivo do github:
 Ordem dos arquivos: 
+
+
+[# variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis/)
+
+Lista dos exercicios (Lógica de Programação) 
+[01 - Variaveis e constantes ]
+[02 - Operadores]
+[03 - Estrutura De Decisao ] - if | switch
+[04 - Iteracao] - for | while
+[05 - Vetores ] -  Vetor = []
+[06 - Metodos ]- static | void e return
+[07 - programacao orientada a objetos ] - class | static | get e set - Getter and setter
+[08 - leitura e escrita de dados em arquivos] - ArrayList | throws | Path | readAllLines
+[09 - ALgoritmos Avançado ]
+[10 - Acessando Atributos de Objetos ]
 
 Lista de exercicios (Orientacao a objetos)
 
