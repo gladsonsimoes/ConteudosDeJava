@@ -8,8 +8,7 @@ Matéria em java para Revisar
 
 # Tipos de Variaveis
 
-## [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//)
-### tipos de variaveis wrapper e primitive
+## [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) - as variaveis do tipo wrapper e primitive
 ----
 
 # Lógica de Programação 
