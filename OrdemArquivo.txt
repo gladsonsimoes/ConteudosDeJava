@@ -2,7 +2,7 @@ Para ver com mais facilidade baixando o arquivo do github:
 Ordem dos arquivos: 
 
 
-[# variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis/)
+[# variaveis]
 
 Lista dos exercicios (Lógica de Programação) 
 [01 - Variaveis e constantes ]
