@@ -5,6 +5,7 @@ Ordem dos arquivos:
 [# variaveis]
 
 Lista dos exercicios (Lógica de Programação) 
+
 [01 - Variaveis e constantes ]
 [02 - Operadores]
 [03 - Estrutura De Decisao ] - if | switch
