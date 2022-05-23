@@ -13,11 +13,11 @@ para procurar o que precisa clique no simbolo:
 
 # Lógica de Programação 
 
-### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) - Como Usar variaveis e constantes
+### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) - Como Usar variaveis e constantes.
 ----
 ### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) - Usando Fórmula matemática básica em java.
 ----
-### [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) - if | else | switch | case 
+### [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) - Como criar uma estrutura de decisão.  - if | else | switch | case 
 ----
 ### [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) - laço de repetição : for | while
 ----
