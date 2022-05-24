@@ -31,7 +31,7 @@ para procurar o que precisa clique no simbolo:
 ----
 ### [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 ----
-### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/acessando_atributos_de_objetos/)
+### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/acessando_atributos_de_objetos/) - Acessar um atributo de um objeto , exemplo: Objeto objeto = new Objeto();
 ----
 # Orientacao a objetos
 
