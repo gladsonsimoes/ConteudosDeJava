@@ -25,7 +25,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/)  - Vetor = []
 ----
-### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) - static | void e return
+### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) - Criar um metodo , exemplo: void imprimirTraco() - static | void e return 
 ----
 ### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/) - class | static | get e set - Getter and setter
 ----
