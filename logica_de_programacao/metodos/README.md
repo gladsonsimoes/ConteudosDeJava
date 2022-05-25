@@ -13,4 +13,15 @@
     }
 ~~~
 
+tem também :
+
+public static void - metodo estatico publico 
+
+static void -  metodo estatico 
+
+public void - metodo não estático publico 
+
+void - um metodo não estatico e nem publico
+
+
 site para tirar duvidas : https://www.devmedia.com.br/trabalhando-com-metodos-em-java/25917#:~:text=Métodos%20static%20em%20Java&text=Os%20métodos%20static%20tem%20um,exemplos%20de%20declarações%20de%20métodos.
