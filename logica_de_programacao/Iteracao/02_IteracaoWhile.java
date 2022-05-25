@@ -1,6 +1,3 @@
-package com.company.iteracao;
-
-
 public class IteracaoWhile {
 
     public static void main(String[] args) {
