@@ -1,6 +1,3 @@
-package com.company.algoitmos.avancados.acessando_atributos_de_objetos.exercicio01;
-
-
 public class Petshop {
     public static void main(String[] args) {
         Cachorro cachorro = new Cachorro();
