@@ -9,6 +9,6 @@ public class Pessoa {
     }
     public Pessoa(String nome, int idade) { //construtor com duas variaveis
         this(nome); // precisa do this anterior para criar e usar dessa forma
-        this.idade = idade; //como não acessei a idade não posso colocar parentese
+        this.idade = idade; //como não acessei a idade , não posso colocar o parentese , então tenho que criar para acessar.
     }
 }
