@@ -3,9 +3,9 @@ package com.company.acessando_atributos_de_objetos.exercicio01;
 
 public class Petshop {
     public static void main(String[] args) {
-        Cachorro cachorro = new Cachorro();
+        Cachorro cachorro = new Cachorro();  //acessando o objeto da classe Cachorro e definindo um atributo chamado cachorro
 
-        cachorro.nome = "Bidu";
+        cachorro.nome = "Bidu"; //usando o atributo cachorro e para acessar o objeto nome da Classe Cachorro
         cachorro.idade = 2;
         cachorro.raca = "Boxer";
         cachorro.sexo = 'M';
