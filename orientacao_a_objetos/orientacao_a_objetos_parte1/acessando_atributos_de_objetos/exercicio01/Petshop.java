@@ -5,7 +5,7 @@ public class Petshop {
     public static void main(String[] args) {
         Cachorro cachorro = new Cachorro();  //acessando o objeto da classe Cachorro e definindo um atributo chamado cachorro
 
-        cachorro.nome = "Bidu"; //usando o atributo cachorro e para acessar o objeto nome da Classe Cachorro
+        cachorro.nome = "Bidu"; //usando o objeto cachorro e para acessar o atributo nome da Classe Cachorro
         cachorro.idade = 2;
         cachorro.raca = "Boxer";
         cachorro.sexo = 'M';
