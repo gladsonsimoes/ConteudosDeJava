@@ -1,5 +1,5 @@
 # Metodos
-### Este exemplo foi retirado do exercicio : [PrimeiroMetodo](/)
+### Este exemplo foi retirado do exercicio : [PrimeiroMetodo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/logica_de_programacao/metodos/01_PrimeiroMetodo.java/)
 ### como usar um metodo ?
 ### para invocar :
 ~~~java
