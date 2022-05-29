@@ -34,13 +34,12 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 ----
-### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/acessando_atributos_de_objetos/) - Acessar um atributo de um objeto , exemplo: Objeto objeto = new Objeto();
-----
+
 # Orientacao a objetos
 
 ## Parte 1
 
-### [01 - Criando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/)
+### [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/) - Acessar um atributo de um objeto , exemplo: Objeto objeto = new Objeto();
 ----
 ### [02 - Composição Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/)
 ----
