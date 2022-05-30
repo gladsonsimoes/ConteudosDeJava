@@ -16,7 +16,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 # Lógica de Programação 
 
 
-### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) - Como usar variaveis e constantes.
+### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) - Como criar e usar variaveis e constantes.
 ----
 ### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) - Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
 ----
