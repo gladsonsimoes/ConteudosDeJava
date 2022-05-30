@@ -10,22 +10,19 @@ public class main {
     Scanner scanner = new Scanner(System.in); //para pedir a informação do teclado.
 
 int numero; //criando uma variavel de numero
-  //não pode criar duas variaveis com o mesmo nome!
-int numero1 = 3; //criando uma variavel de um numero e declarando o numero 3
-    
+int numero1 = 3; //criando outra variavel de numero e declarando o numero 3
+  
 String nome; //criando uma variavel de escrita
 String nome1 = "Gladson"; //criando uma variavel de escrita e declarando a palavra Gladson
      
 char caractere; //criando uma variavel de caractere
 char caractere1 = '*'; //criando uma variavel de caractere e declarando o caractere *
+      
+//para pedir entrada do teclado é a mesma coisa com o scanner, somente o next é diferente dependendo do tipo da variavel!
 
-//Como usar as variaves para pedir informação do teclado :
-
-numero = scanner.nextInt(); //pegando a variavel numero e usando ela para pedir informação do teclado
+numero = scanner.nextInt(); //pegando a variavel numero "linha 12" e usando ela para pedir informação do teclado
 int numero2 = scanner.nextInt(); //ou pode optar para criar e escanear na mesma linha
 //numero 1 já foi declarado um numero então não precisa pedir informação do teclado 
-        
-//mesma coisa com as outras variaveis
 
 nome = scanner.nextLine();
 String nome3 = scanner.nextLine();
