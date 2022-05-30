@@ -3,7 +3,7 @@
 ### sabendo dos tipos de [variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis///):
 
 ~~~java
-import java.util.Scanner;
+import java.util.Scanner; //importando da biblioteca do java o Scanner
 
 public class main {
     public static void main(String[] args) {
