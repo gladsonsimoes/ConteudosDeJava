@@ -28,7 +28,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) - Criar um metodo , exemplo: void imprimirTraco() - static | void e return 
 ----
-### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/) - class | static | get e set - Getter and setter
+### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/) - como criar encapsulamento[( usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  - get e set - Getter and setter
 ----
 ### [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) - ArrayList | throws | Path | readAllLines
 ----
