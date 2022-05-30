@@ -1,6 +1,6 @@
 ## Como criar uma variavel?
 
-### sabendo dos tipos de [variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis///):
+### conhendo os tipos de [variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis///) para criar uma variavel:
 
 ~~~java
 import java.util.Scanner; //importando da biblioteca do java o Scanner
