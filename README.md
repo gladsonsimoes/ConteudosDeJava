@@ -39,7 +39,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 
 ## Parte 1
 
-### [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/) - [Criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Carro.java/) e [Acessar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Principal.java/) um atributo de um objeto.
+### [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/) - [Criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Carro.java/) e [acessar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Principal.java/) um atributo de um objeto.
 ----
 ### [02 - Composição Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/)
 ----
