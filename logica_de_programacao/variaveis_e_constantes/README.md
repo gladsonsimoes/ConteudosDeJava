@@ -38,7 +38,7 @@ char caractere1 = '*';
       
 //para pedir entrada do teclado é a mesma coisa com o scanner, somente o next é diferente dependendo do tipo da variavel!
 
-numero = scanner.nextInt(); //pegando a variavel numero "linha 12" e usando ela para pedir informação do teclado
+numero = scanner.nextInt(); //pegando a variavel numero e usando ela para pedir informação do teclado
 int numero2 = scanner.nextInt(); //ou pode optar para criar e escanear na mesma linha
 //numero 1 já foi declarado um numero então não precisa pedir informação do teclado 
 
