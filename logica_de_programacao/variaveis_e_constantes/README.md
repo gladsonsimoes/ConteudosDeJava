@@ -6,7 +6,7 @@
 import java.util.Scanner; //importando da biblioteca do java o Scanner
 
 public class main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //metodo main 
     Scanner scanner = new Scanner(System.in); //para pedir a informação do teclado.
 
 int numero; //criando uma variavel de numero
