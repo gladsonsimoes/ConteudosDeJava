@@ -1,7 +1,7 @@
 # Metodos
 ### Este exemplo foi retirado do exercicio : [PrimeiroMetodo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/logica_de_programacao/metodos/01_PrimeiroMetodo.java/)
 ### como criar um metodo ?
-#### final da linha tem que criar um metodo assim :
+#### final da linha se cria um metodo assim :
 ~~~java
         static void imprimirTraco() {
         String padraoTraco = "------------------------------------------------";
