@@ -43,7 +43,7 @@ int numero2 = scanner.nextInt(); //ou pode optar para criar e escanear na mesma 
 //numero 1 já foi declarado um numero então não precisa pedir informação do teclado 
 
 nome = scanner.nextLine();
-String nome3 = scanner.nextLine();
+String nome2 = scanner.nextLine();
 
 caractere = scanner.next().charAt(0);
 char caractere2 = scanner.next().charAt(0);
