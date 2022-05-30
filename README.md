@@ -75,3 +75,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [ 12 - desafio heranca e sobreposicao_5_17 ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_heranca_e_sobreposicao_5_17/)
 ----
+### [ 13 - sobrecarga 5_18](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_18_sobrecarga/)
+----
+### [14 - _5_19_exercicio_sobrecarga](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_19_exercicio_sobrecarga/)
+----
