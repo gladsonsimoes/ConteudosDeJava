@@ -80,3 +80,5 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [15 - 5_20 polimorfismo](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_20_polimorfismo/)
 ----
+### [16 - 5_21 Classes Abstratas](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_21_classes_abstratas/)
+----
