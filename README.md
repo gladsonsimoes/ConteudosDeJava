@@ -7,7 +7,6 @@ para procurar o que precisa clique no simbolo:
 
 se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/) para acessar
 
-
 # Tipos de Variaveis
 
 ### [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) - Variaveis Java do tipo wrapper e primitive
@@ -24,7 +23,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) - laço de repetição : for | while
 ----
-### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/)  - Vetor = []
+### [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/)  - Vetor = [] - array
 ----
 ### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) - Criar um metodo , static | void e return 
 ----
