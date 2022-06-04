@@ -9,7 +9,7 @@ public class Principal {
         //meuCarro.fabricante = "Fiat";
         meuCarro.modelo = "Paulo";
 
-        meuCarro.dono = new Proprietario();
+        meuCarro.dono = new Proprietario(); //composicao de objeto
         meuCarro.dono.nome = "João da Silva";
         meuCarro.dono.bairro = "Centro";
 
