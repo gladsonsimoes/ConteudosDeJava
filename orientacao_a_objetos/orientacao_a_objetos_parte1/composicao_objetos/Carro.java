@@ -7,5 +7,5 @@ public class Carro {
     String cor;
     int anoDeFabricacao;
 
-    Proprietario dono;
+    Proprietario dono; //criando um objeto chamado "dono" e invocando a classe Proprietaria 
 }
