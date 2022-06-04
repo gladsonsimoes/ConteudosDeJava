@@ -85,3 +85,6 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [18 - 5_23_interfaces](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_23_interfaces/)
 ----
+### [19 - 5_24 ](/)
+----
+###
