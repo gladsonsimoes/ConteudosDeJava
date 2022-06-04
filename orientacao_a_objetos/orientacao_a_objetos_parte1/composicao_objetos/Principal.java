@@ -11,7 +11,7 @@ public class Principal {
         
         //abaixo está a composicao de objeto
         
-        //com o objeto "meuCarro" da classe Carro , acessamos o atributo dono , dono é da classe Proprietário que foi instacianda na classe carro 
+        //com o objeto "meuCarro" da classe Carro , acessamos o atributo dono , dono é da classe Proprietário que foi instacianda na classe Carro 
         //e por isso criamos o "new  Proprietario();" para poder acessar outros atributos da classe Proprietário!
         meuCarro.dono = new Proprietario(); 
         meuCarro.dono.nome = "João da Silva"; //"nome" é um atributo da classe Proprietario , está sendo acessada dessa forma!
