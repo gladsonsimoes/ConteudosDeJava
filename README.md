@@ -1,9 +1,6 @@
+clique no simbolo acima para procurar o que precisa
 
 Aqui estão com todos os links das pastas para navegar com mais facilidade , só basta clicar nas palavras azuis.
-
-para procurar o que precisa clique no simbolo:  
-
-<img src="https://github.com/gladsonsimoes/gladsonsimoes/blob/main/pesquisagithub.png"/>
 
 se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/) para acessar
 
@@ -13,7 +10,6 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 
 # Lógica de Programação 
-
 
 ### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) - Como criar e usar variaveis e constantes.
 ----
@@ -27,7 +23,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) - Criar um metodo , static | void e return 
 ----
-### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/) - como criar encapsulamento[( usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  - get e set - Getter and setter
+### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/) - como criar encapsulamento [(usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  - get e set - Getter and setter
 ----
 ### [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) - como criar e ler um arquivo - ArrayList | throws | Path | readAllLines
 ----
