@@ -11,7 +11,7 @@ public class Carro {
     Proprietario dono;
     void alterarModelo(String modelo){
         if (modelo != null) {
-           this.modelo = modelo; 
+           this.modelo = modelo; //usando o this para acessar o atributo "modelo" sem usar um objeto para instanciar
         }
     }
 
