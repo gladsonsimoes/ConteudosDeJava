@@ -29,5 +29,7 @@ void //um metodo não estatico e nem publico
 ### Metodo rebendo parametro: 
 #### sim ele recebe , [clique pra ver](https://universidadejava.com.br/java/java-metodos-parametro//)
 
-
+### pra que serve o public ? 
+#### public. O modificador de acesso public é o menos restritivo de todos. Ele permite que qualquer outra parte da sua aplicação tenha acesso ao componente marcado como public
+----
 site para tirar duvidas : https://www.devmedia.com.br/trabalhando-com-metodos-em-java/25917#:~:text=Métodos%20static%20em%20Java&text=Os%20métodos%20static%20tem%20um,exemplos%20de%20declarações%20de%20métodos.
