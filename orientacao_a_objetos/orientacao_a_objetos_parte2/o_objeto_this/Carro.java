@@ -9,9 +9,9 @@ public class Carro {
     int anoDeFabricacao;
     boolean biCombustivel;
     Proprietario dono;
-    void alterarModelo(String modelo, Carro carro){
+    void alterarModelo(String modelo){
         if (modelo != null) {
-            carro.modelo = modelo;
+           this.modelo = modelo; 
         }
     }
 
