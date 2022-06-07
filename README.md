@@ -85,4 +85,4 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ## Tópicos Avançado
 
-### [](/)
+### [ 6_2_classe_java_lang_math](/)
