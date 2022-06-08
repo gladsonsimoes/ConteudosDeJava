@@ -85,4 +85,6 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ## Tópicos Avançado
 
-### [ 6_2_classe_java_lang_math](/)
+### [ 6_2_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/)
+----
+### [](/)
