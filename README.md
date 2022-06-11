@@ -85,7 +85,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ## Tópicos Avançado
 
-### [01 - 6_2_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/)
+### [01 - 6_2_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/) - usando Math : PI , max , min , pow , sq
 ----
 ### [02 - 6_3_desafio_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_3_desafio_classe_java_lang_math/)
 ----
