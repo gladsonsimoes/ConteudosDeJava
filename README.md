@@ -89,7 +89,7 @@ se desejar tenho o pacote pronto para ser baixado [clique aqui ](https://github.
 ----
 ### [02 - 6_3_desafio_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_3_desafio_classe_java_lang_math/)
 ----
-### [03 - 6_4_tratando_e_lancando_excecoes](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/)
+### [03 - 6_4_tratando_e_lancando_excecoes](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/) - Exception | try e catch | throw new
 ----
 ### [](/)
 ----
