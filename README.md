@@ -95,3 +95,7 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ----
 ### [05 - 6_6_Classes_StringBuffer_e_StringBuilder ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_6_Classes_StringBuffer_e_StringBuilder/)
 ----
+### [06 - 6_7_trabalhando_com_datas](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_7_trabalhando_com_datas/)
+----
+### [](/)
+----
