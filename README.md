@@ -91,5 +91,7 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ----
 ### [03 - 6_4_tratando_e_lancando_excecoes](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/) - Exception | try e catch | throw new
 ----
-### [](/)
+### [04 - 6_5 desafio excecoes](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_5_desafio_excecoes/)
+----
+### [05 - 6_6_Classes_StringBuffer_e_StringBuilder ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_6_Classes_StringBuffer_e_StringBuilder/)
 ----
