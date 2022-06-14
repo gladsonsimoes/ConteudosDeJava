@@ -12,7 +12,7 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
   
 <br>
 <h1 align="center"> Lógica de Programação 
-  
+
 [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/)
     <br> Como criar e usar variaveis e constantes.
 ---
