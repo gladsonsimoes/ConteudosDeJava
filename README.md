@@ -4,12 +4,12 @@ Aqui estão com todos os links das pastas para navegar com mais facilidade , só
 
 se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/) para acessar
 
-# Tipos de Variaveis
+<h1 align="center"> Tipos de Variaveis
 
 ### [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) - Variaveis Java do tipo wrapper e primitive
 ----
 
-# Lógica de Programação 
+<h1 align="center"> Lógica de Programação 
 
 ### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) - Como criar e usar variaveis e constantes.
 ----
@@ -29,9 +29,10 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ----
 ### [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 ----
+<br>
+<h1 align="center" > Orientacao a objetos 
 
-# Orientacao a objetos <!-- https://docero.com.br/doc/8v1x050 -->
-## Parte 1
+<h2 align="center" >Parte 1
 
 ### [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/)  - Como [criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Carro.java/) e [acessar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Principal.java/) um atributo de um objeto.
 ----
@@ -41,14 +42,14 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ----
 ### [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/array/)
 ----
-
-## Parte 2
+<br>
+<h2 align="center" >Parte 2 
 
 
 ### [01 - o objeto This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/)
-
+----
 ### [02 - Teste Construtor(Construtores)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/construtores/)
-
+----
 ### [03 - Encapsulamento](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/encapsulamento_e_modificadores_de_acesso_public_e_private/)
 
 ### [04 - modificador_de_acesso_default](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/modificador_de_acesso_default/)
@@ -82,8 +83,8 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ### [18 - 5_23_interfaces](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_23_interfaces/)
 
 ### [19 - 5_24_exercicio_interface_e_polimorfismo ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_24_exercicio_interface_e_polimorfismo/)
-
-## Tópicos Avançado
+<br>
+<h2 align="center"> Tópicos Avançado
 
 ### [01 - 6_2_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/) - usando Math : PI , max , min , pow , sq
 
