@@ -114,4 +114,6 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 
 ## [07 - 6_8 desafio_datas](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/) <br>
 
-### [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/)
+## [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/) <br>
+
+## [09 - 6_10 ](/) <br> 
