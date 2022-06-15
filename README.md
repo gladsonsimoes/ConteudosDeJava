@@ -4,49 +4,59 @@ Aqui estão com todos os links das pastas para navegar com mais facilidade , só
 
 se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/) para acessar
 
-<br>
-<h1 align="center"> Tipos de Variaveis
 
-[Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) - Variaveis Java do tipo wrapper e primitive
----
-  
-<br>
-<h1 align="center"> Lógica de Programação 
+<h1 align="center" > Tipos de Variaveis
 
-[01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br> <br> Como criar e usar variaveis e constantes.
----
-[02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) <br> <br> Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
----
-[03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) <br> <br> Como criar uma estrutura de decisão.  - if | else | switch | case 
----
-[04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) <br> <br> laço de repetição : for | while
----
-[05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/)  <br> <br> Vetor = [] - array
----
-[06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) <br> <br> Criar um metodo , static | void e return 
----
-[07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/) <br> <br> como criar encapsulamento [(usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  - get e set - Getter and setter
----
-[08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) <br> <br> como criar e ler um arquivo - ArrayList | throws | Path | readAllLines
----
-[09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
----
+## [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) 
+### Variaveis Java do tipo wrapper e primitive 
+
+<br>
+
+<h1 align="center" > Lógica de Programação
+ 
+## [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br> 
+### Como criar e usar variaveis e constantes.
+
+## [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) <br>  
+###  Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
+
+## [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) <br> 
+###  Como criar uma estrutura de decisão.  - if | else | switch | case 
+
+## [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) <br> 
+###  laço de repetição : for | while
+
+## [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/) <br> 
+###  Vetor = [] - array
+
+## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
+### Criar um metodo , static | void e return 
+
+## [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/)<br>
+### como criar encapsulamento [(usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  - get e set - Getter and setter
+
+## [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) <br> 
+### como criar e ler um arquivo - ArrayList | throws | Path | readAllLines
+
+## [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
+
 <br>
 <h1 align="center" > Orientacao a objetos
 
-<h2 align="center" >Parte 1
+<h2 align="left" >Parte 1 <br>
+ 
+## [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/) <br>
+  ### Como [criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Carro.java/) e [acessar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Principal.java/) um atributo de um objeto.
 
-[01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/) <br> <br> Como [criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Carro.java/) e [acessar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Principal.java/) um atributo de um objeto.
-----
-### [02 - Composição Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/) - Como acessar os atributos de uma classe , atraves de um objeto de outra classe.[Veja o exemplo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/Principal.java/)
-----
-### [03 - Valores Padrão ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/valores_padrao/)
-----
-### [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/array/)
-----
+## [02 - Composição Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/) <br>
+  ### Como acessar os atributos de uma classe , atraves de um objeto de outra classe.[Veja o exemplo](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/Principal.java/)
+---  
+[03 - Valores Padrão ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/valores_padrao/)
+---
+[04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/array/)
+  
 <br>
 <h2 align="center" >Parte 2 
-
 
 ### [01 - o objeto This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/)
 ----
