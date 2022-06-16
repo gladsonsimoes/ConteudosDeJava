@@ -116,4 +116,14 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 
 ## [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/) <br>
 
-## [09 - 6_10 ](/) <br> 
+## [09 - 6_10 ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/) <br> 
+
+## [10 - 6_11](/) <br>
+
+## [11 - 6_12](/) <br>
+
+## [12 - 6_13](/) <br>
+
+## [13 - 6_14](/) <br>
+
+
