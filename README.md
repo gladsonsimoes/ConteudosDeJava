@@ -64,8 +64,10 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 <h2 align="center" >Parte 2 <br> 
  
 ## [01 - o objeto This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/) <br>
+ ### usando o this para acessar os atributos de uma classe sem usar um objeto para instanciar
 
 ## [02 - Teste Construtor(Construtores)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/construtores/) <br>
+ ### um metodo construtor , o construtor é definido como um método cujo nome deve ser o mesmo nome da classe e sem indicação do tipo de retorno
 
 ## [03 - Encapsulamento](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/encapsulamento_e_modificadores_de_acesso_public_e_private/) <br>
 
