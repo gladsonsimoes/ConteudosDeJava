@@ -116,11 +116,11 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 
 ## [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/) <br>
 
-## [09 - 6_10 ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/) <br> 
+## [09 - _6_10_desafio_numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/) <br> 
 
-## [10 - 6_11](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/) <br>
+## [10 - 6_11_collections_framework](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/) <br>
 
-## [11 - 6_12](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/) <br>
+## [11 - _6_12_metodos_equals_e_hashCode](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/) <br>
 
 ## [12 - 6_13_desafio_collections](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_desafio_collections/) <br>
 
