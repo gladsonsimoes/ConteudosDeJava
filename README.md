@@ -99,10 +99,10 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 <h2 align="center"> Tópicos Avançado
 
 ## [01 - 6_2_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/) <br>
-### usando Math : PI , max , min , pow , sq
+### usando Math : PI , max , min , pow , sq 
 
 ## [02 - 6_3_desafio_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_3_desafio_classe_java_lang_math/) <br>
-
+### Como arrendondar , gerar números aleatórios
 ## [03 - 6_4_tratando_e_lancando_excecoes](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/) <br>
 ### Exception | try e catch | throw new
 
@@ -115,7 +115,7 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ## [07 - 6_8 desafio_datas](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/) <br>
 
 ## [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/) <br>
-### Como arrendondar , gerar números aleatórios
+### BigDecimal
 ## [09 - _6_10_desafio_numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/) <br> 
 
 ## [10 - 6_11_collections_framework](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/) <br>
