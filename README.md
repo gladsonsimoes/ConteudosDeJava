@@ -40,7 +40,8 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 #### get e set - Getter and setter
 
 ## [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) <br> 
-### como criar e ler um arquivo - ArrayList | throws | Path | readAllLines
+### como criar e ler um arquivo 
+#### ArrayList | throws | Path | readAllLines
 
 ## [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 
@@ -59,8 +60,9 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 
 ## [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/array/) <br>
 <br>
+ 
 <h2 align="center" >Parte 2 <br> 
-
+ 
 ## [01 - o objeto This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/) <br>
 
 ## [02 - Teste Construtor(Construtores)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/construtores/) <br>
@@ -76,11 +78,11 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ## [07 - desafio_static_e_final_5_11](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_static_e_final_5_11/) <br>
 
 ## [08 - enumeracoes 5 12](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/enumeracoes_5_12/) <br>
-
+### enum
 ## [09 - desafio_pacotes_e_enumeracoes_5_13](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_pacotes_e_enumeracoes_5_13/) <br>
 
 ## [10 - heranca_e_modificador_protected_5_14](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/heranca_e_modificador_protected_5_14/) <br>
-
+#### protected
 ## [11 - sobreposicao 5_16](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/sobreposicao_5_16/) <br>
 
 ## [12 - desafio heranca e sobreposicao_5_17 ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_heranca_e_sobreposicao_5_17/)
