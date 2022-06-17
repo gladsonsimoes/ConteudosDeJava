@@ -122,8 +122,8 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 
 ## [11 - 6_12](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/) <br>
 
-## [12 - 6_13](/) <br>
+## [12 - 6_13](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_/) <br>
 
-## [13 - 6_14](/) <br>
+## [](/) <br>
 
 
