@@ -2,7 +2,7 @@ clique no simbolo <img src=https://github.com/gladsonsimoes/gladsonsimoes/blob/m
 
 Aqui estão com todos os links das pastas para navegar com mais facilidade , só basta clicar nas palavras azuis.
 
-se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/) para acessar
+se desejar tenho outro repositório pronto para baixar [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/)
 
 
 <h1 align="center" > Tipos de Variaveis
