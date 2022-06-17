@@ -21,19 +21,23 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ###  Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
 
 ## [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) <br> 
-###  Como criar uma estrutura de decisão.  - if | else | switch | case 
+###  Como criar uma estrutura de decisão. <br> 
+#### if | else | switch | case 
 
 ## [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) <br> 
-###  laço de repetição : for | while
+###  laço de repetição 
+####  for | while
 
 ## [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/) <br> 
 ###  Vetor = [] - array
 
 ## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
-### Criar um metodo , static | void e return 
+### Criar um metodo 
+#### static | void e return 
 
 ## [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/)<br>
-### como criar encapsulamento [(usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  - get e set - Getter and setter
+### como criar encapsulamento [(usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  <br>
+#### get e set - Getter and setter
 
 ## [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) <br> 
 ### como criar e ler um arquivo - ArrayList | throws | Path | readAllLines
@@ -115,9 +119,10 @@ se desejar tenho o repositório pronto para ser baixado [clique aqui ](https://g
 ## [07 - 6_8 desafio_datas](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/) <br>
 
 ## [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/) <br>
-### BigDecimal
+### BigDecimal <br>
+#### BigDecimal  
 ## [09 - _6_10_desafio_numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/) <br> 
-
+### desafio da matéria trabalhando com numeros
 ## [10 - 6_11_collections_framework](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/) <br>
 
 ## [11 - _6_12_metodos_equals_e_hashCode](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/) <br>
