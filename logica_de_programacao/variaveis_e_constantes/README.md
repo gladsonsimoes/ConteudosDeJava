@@ -51,3 +51,8 @@ char caractere2 = scanner.next().charAt(0);
     }
 }
 ~~~
+
+
+# Como criar uma CONSTANTE?
+
+
