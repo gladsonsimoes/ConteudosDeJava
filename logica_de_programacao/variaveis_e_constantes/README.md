@@ -53,6 +53,7 @@ char caractere2 = scanner.next().charAt(0);
 ~~~
 
 
-# Como criar uma CONSTANTE?
+## Como criar uma CONSTANTE?
 
+### demostração de uma constante
 
