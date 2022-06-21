@@ -29,7 +29,12 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ####  for | while
 
 ## [05 - Vetores ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/) <br> 
-###  Vetor = [] - array
+###  A forma mais eficiente de trabalhar com coleções de elementos em Java é através da construção de vetores (arrays). Em Java, arrays são objetos que armazenam múltiplas variáveis do mesmo tipo.
+ Diferença entre vetor e matriz: <br>
+ Uma dimensão = vetor <br>
+ Duas dimensões ou mais = matriz
+
+####
 
 ## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
 ### Criar um metodo 
