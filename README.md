@@ -2,7 +2,7 @@
 |
 clique no simbolo <img src=https://github.com/gladsonsimoes/gladsonsimoes/blob/main/1654689623312.png> para procurar o que precisa
 
-Aqui estão com todos os links das pastas para navegar com mais facilidade , só basta clicar nas palavras azuis.
+Aqui estão com todos os links das pastas para navegar com mais facilidade , no final dos arquivos tem o README explicando as coisas que acontece
 
 se desejar tenho outro repositório pronto para baixar [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/)
 
