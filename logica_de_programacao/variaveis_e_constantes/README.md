@@ -53,7 +53,10 @@ char caractere2 = scanner.next().charAt(0);
 ~~~
 
 
-## Como criar uma CONSTANTE?
+## Como criar uma CONSTANTE:
 
-### demostração de uma constante
+~~~java
+static final Integer IDADE_MINIMA_PARA_TIRAR_CARTEIRA = 18; //definindo uma CONSTANTE
+~~~
+
 
