@@ -15,7 +15,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 <h1 align="center" > Lógica de Programação
  
 ## [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br> 
-### Como criar e usar variaveis e CONSTANTES
+### Como criar e usar variaveis e [CONSTANTES](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/logica_de_programacao/variaveis_e_constantes/04_Constantes.java/)
 
 ## [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) <br>  
 ###  Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
