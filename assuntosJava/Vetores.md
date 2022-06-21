@@ -1,4 +1,4 @@
-## Vetor e matriz
+## [Vetor e Matriz ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/)
 
 ###  A forma mais eficiente de trabalhar com coleções de elementos em Java é através da construção de vetores (arrays). Em Java, arrays são objetos que armazenam múltiplas variáveis do mesmo tipo.
  Diferença entre vetor e matriz: <br>
