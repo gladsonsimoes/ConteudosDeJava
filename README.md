@@ -43,6 +43,7 @@ int [] meuVetor = new int[5]; <br>
 boolean [] resultados = new boolean[30]; <br>
 String [] nomes = new String[8]; <br>
 Automovel [] meusCarros = new Automovel[10]; <br>
+#### tenho também um [livro de ajuda](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/LIvros_de_estudos_Java/05-Arrays.pdf/)
 
 ## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
 ### Criar um metodo 
