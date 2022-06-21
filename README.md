@@ -39,14 +39,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 #### Sintaxe: <br>
 > 
  >tipo< [] vetor = new >tipo< [tamanho]; <br>
- 
-#### Exemplos: <br>
-~~~java
-int [] meuVetor = new int[5];
-boolean [] resultados = new boolean[30];
-String [] nomes = new String[8]; 
-Automovel [] meusCarros = new Automovel[10];
-~~~
+
 
 
 ## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
