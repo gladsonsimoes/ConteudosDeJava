@@ -35,5 +35,3 @@ int vetor4[] = {1,2,3};
 //<tipo>[] vetor = {val0, val1, ..., valN-1};
 int[] vetor5 = {1,2,3};
 ~~~
-
-### [Aviso!] - Vetores não podem ser colocados os tipos primitivos!
