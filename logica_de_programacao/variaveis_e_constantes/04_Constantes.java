@@ -12,7 +12,7 @@ public class Constantes {
         System.out.print("Idade: ");
         Integer idade = scanner.nextInt();
 
-        Boolean podeTirarCarteira = idade >= IDADE_MINIMA_PARA_TIRAR_CARTEIRA;
+        Boolean podeTirarCarteira = idade >= IDADE_MINIMA_PARA_TIRAR_CARTEIRA; //acessando uma constante 
 
         if (podeTirarCarteira) {
             System.out.println("Sim! Ele(a) pode tirar carteira.");
