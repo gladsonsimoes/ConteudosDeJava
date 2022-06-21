@@ -47,7 +47,7 @@ boolean [] resultados = new boolean[30];
 String [] nomes = new String[8]; 
 Automovel [] meusCarros = new Automovel[10];
 ~~~
-#### tenho também um [livro de ajuda](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/LIvros_de_estudos_Java/05-Arrays.pdf/)
+
 
 ## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
 ### Criar um metodo 
