@@ -31,9 +31,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ####  for | while
 
 ## [05 - Vetor e Matriz ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/) <br> 
-###  como usar vetor! [veja explicações...](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/assuntosJava/Vetores.md/)
-
-
+###  como criar vetor e matriz!
 
 ## [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
 ### Criar um metodo 
