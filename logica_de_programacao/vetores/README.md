@@ -8,13 +8,32 @@
 #### Sintaxe: <br>
 > 
  >tipo< [] vetor = new >tipo< [tamanho]; <br>
- 
-#### Exemplos: <br>
+
+#### Declarando e informando quantidade de elementos:
+
 ~~~java
-int [] meuVetor = new int[5];
-boolean [] resultados = new boolean[30];
-String [] nomes = new String[8]; 
-Automovel [] meusCarros = new Automovel[10];
+//<tipo> vetor[] = new <tipo>[tamanho];
+int vetor1[] = new int[3];
+~~~
+
+~~~java
+//<tipo>[] vetor = new <tipo>[tamanho];
+int[] vetor2 = new int[3];
+~~~
+#### Declarando e inicializando elementos
+~~~java
+//<tipo>[] vetor = new <tipo>[ ] {val0, ..., valN-1};
+int[] vetor3 = new int[]{1,2,3}; 
+~~~
+#### Declarando e inicializando elementos (forma compacta)
+~~~java
+//<tipo> vetor[] = {val0, val1, ..., valN-1};
+int vetor4[] = {1,2,3};
+~~~
+
+~~~java
+//<tipo>[] vetor = {val0, val1, ..., valN-1};
+int[] vetor5 = {1,2,3};
 ~~~
 
 ### [Aviso!] - Vetores não podem ser colocados os tipos primitivos!
