@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Constantes {
 
-    static final Integer IDADE_MINIMA_PARA_TIRAR_CARTEIRA = 18;
+    static final Integer IDADE_MINIMA_PARA_TIRAR_CARTEIRA = 18; //definindo uma CONSTANTE
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
