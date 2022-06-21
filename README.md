@@ -124,7 +124,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [07 - 6_8 desafio_datas](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/) <br>
 
 ## [08 - 6_9 trabalhando com numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/) <br>
-### BigDecimal <br>
+### usando o BigDecimal para colocar valores maiores <br>
 #### BigDecimal  
 ## [09 - _6_10_desafio_numeros](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/) <br> 
 ### desafio da matéria trabalhando com numeros
