@@ -1,7 +1,7 @@
 public class Principal {
     public static void main(String[] args) {
-        Carro meuCarro = new Carro(); //invocando a classe e criando um objeto para a classe
-        meuCarro.fabricante = "Fiat"; //o objeto meuCarro está acessando o atributo fabricante da classe Carro
+        Carro meuCarro = new Carro(); //invocando a classe e criando um objeto chamado "meuCarro"
+        meuCarro.fabricante = "Fiat"; //o objeto meuCarro está acessando o atributo "fabricante" da classe Carro
         meuCarro.modelo = "Palio";
         meuCarro.anoDeFabricacao = 2011;
         meuCarro.cor = "Prata";
