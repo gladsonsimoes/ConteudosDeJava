@@ -133,7 +133,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [10 - 6_11_collections_framework](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/) <br>
 
 ## [11 - _6_12_metodos_equals_e_hashCode](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/) <br>
-
+### A comparação de objetos é feita através do resultado do método equals()
 ## [12 - 6_13_desafio_collections](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_desafio_collections/) <br>
 
 ## [](/) <br>
