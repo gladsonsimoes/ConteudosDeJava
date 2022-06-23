@@ -137,7 +137,8 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [12 - 6_13_desafio_collections](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_desafio_collections/) <br>
 
 ## [13 - _6_18_ordenando_objetos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_18_ordenando_objetos/) <br>
-
+ 
+ <br>
  <h2 align="center"> Mais detalhes e frameworks
   
  ## [01 - _7_1_metodos_da_classe_string](/)
