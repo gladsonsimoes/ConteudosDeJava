@@ -143,5 +143,5 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
  <br>
  <h2 align="center"> Mais detalhes e frameworks
   
- ## [01 - _7_1_metodos_da_classe_string](/)
+ ## [01 - _7_1_metodos_da_classe_string](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_1_metodos_da_classe_string/)
 
