@@ -82,7 +82,8 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [07 - desafio_static_e_final_5_11](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_static_e_final_5_11/) <br>
 
 ## [08 - enumeracoes 5 12](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/enumeracoes_5_12/) <br>
-### enum
+### como criar uma enumeração usando a classe do tipo enum
+ #### enum
 ## [09 - desafio_pacotes_e_enumeracoes_5_13](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_pacotes_e_enumeracoes_5_13/) <br>
 
 ## [10 - heranca_e_modificador_protected_5_14](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/heranca_e_modificador_protected_5_14/) <br>
@@ -102,6 +103,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [17 - 5_22_desafio_polimorfismo_e_classes_abstrata](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_22_desafio_polimorfismo_e_classes_abstratas/)
 
 ## [18 - 5_23_interfaces](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_23_interfaces/) <br>
+ ### como criar uma interface usando uma classe chamada interface
 
 ## [19 - 5_24_exercicio_interface_e_polimorfismo ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_24_exercicio_interface_e_polimorfismo/)
 <br>
