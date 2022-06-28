@@ -153,5 +153,5 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 
  ## [01 - _9_1_](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_elndo/model/)
 
- ## [02 - _9_2_](/)
+ ## [02 - _9_2_enviando_objetos_na_rede ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede/)
 
