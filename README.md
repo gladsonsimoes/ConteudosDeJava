@@ -151,7 +151,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
  <br>
  <h2 align="center"> Serializacao
 
- ## [01 - _9_1_](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_elndo/model/)
+ ## [01 - 9_1_salvando_e_lendo_objetos_em_arquivo ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo/)
 
- ## [02 - _9_2_enviando_objetos_na_rede ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede/)
+ ## [02 - 9_2_enviando_objetos_na_rede ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede/)
 
