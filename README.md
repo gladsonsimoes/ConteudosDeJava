@@ -156,4 +156,9 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
  ## [02 - 9_2_enviando_objetos_na_rede ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede/)
  
  fonte dos exercicios: https://cafe.algaworks.com/cp039-upsjavaoo/
+ 
+ <br>
+<h2 align="center"> Novidades do java 7
+
+## [01 - 10_1_separador_de_digitos_em_literais_numericos](/)
 
