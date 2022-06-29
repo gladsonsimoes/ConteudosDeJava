@@ -154,4 +154,6 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
  ## [01 - 9_1_salvando_e_lendo_objetos_em_arquivo ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo/)
 
  ## [02 - 9_2_enviando_objetos_na_rede ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede/)
+ 
+ fonte dos exercicios: https://cafe.algaworks.com/cp039-upsjavaoo/
 
