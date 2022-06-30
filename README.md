@@ -162,3 +162,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 
 ## [01 - 10_1_separador_de_digitos_em_literais_numericos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/)
 
+## [02 - 10_2_switch_case_com_string](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_2_switch_case_com_string/)
+
+
+
