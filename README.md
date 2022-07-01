@@ -7,9 +7,7 @@ Aqui estão com todos os links das pastas para navegar com mais facilidade
 se desejar tenho outro repositório pronto para baixar [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/)
 
 
-
-
-
+<br><br>
 <h1 align="center" > Tipos de Variaveis
 
 ## [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) 
