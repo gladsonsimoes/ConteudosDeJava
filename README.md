@@ -163,5 +163,9 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 
 ## [02 - 10_2_switch_case_com_string](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_2_switch_case_com_string/)
 
+## [03 - diamond](/)
+
+## [04 - 10_4_try_with_resources_e_multi_catch](/)
+
 
 
