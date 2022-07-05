@@ -174,6 +174,6 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
  
 ## [01 - 11_1_introducao_ao_lambda](/)
  
-## [02 - 11_2_ referencia_a_metodos](/)
+## [02 - 11_2_referencia_a_metodos](/)
 
 
