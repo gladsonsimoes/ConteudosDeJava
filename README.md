@@ -172,8 +172,8 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
   <br>
 <h2 align="center"> Novidades do java 8
  
-## [01 - 11_1_introducao_ao_lambda](/)
+## [01 - 11_1_introducao_ao_lambda](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_1_introducao_ao_lambda/)
  
-## [02 - 11_2_referencia_a_metodos](/)
+## [02 - 11_2_referencia_a_metodos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos/)
 
 
