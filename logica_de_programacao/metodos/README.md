@@ -14,7 +14,7 @@
           imprimirTraco();
 ~~~
 
-tem também :
+tem diferentes métodos:
 ~~~java
 
 public static void //metodo estatico publico 
