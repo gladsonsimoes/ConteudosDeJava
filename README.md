@@ -48,7 +48,7 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 <details>
 <summary>  Orientacao a objetos </summary>
  
-<h4 align="">Parte 1 <br>
+<h4 align="">Parte 1 <br><br>
 
 [01 - Acessando atributos de objetos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/) <br>
 Como [criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Carro.java/) e [acessar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/Principal.java/) um atributo de um objeto.
@@ -61,7 +61,7 @@ Como [criar](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/blob/main
 [04 - array](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte1/array/) <br>
 <br>
  
-<h2 align="">Parte 2 <br> 
+Parte 2 <br><br> 
  
 [01 - o objeto This](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/) <br>
  
