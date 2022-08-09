@@ -205,7 +205,7 @@ como criar uma enumeração usando a classe do tipo enum
 </details>
 
 
-<h2 align="left"> 2 Parte
+<h1 align="left"> 2 Parte do Conteudo: <br>
 
 
 [ 01 - 11_1_introducao_ao_lambda](/)
