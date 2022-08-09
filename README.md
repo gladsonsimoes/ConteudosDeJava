@@ -79,7 +79,7 @@ um metodo construtor , o construtor é definido como um método cujo nome deve s
 
 [06 - desafio_objeto_this_e_construtores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_objeto_this_e_construtores/) <br>
 
-[07 - desafio_static_e_final_5_11](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_static_e_final_5_11/) <br>
+[07 - desafio_static_e_final_5_11]     (https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_static_e_final_5_11/) <br>
 
 [08 - enumeracoes 5 12](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/orientacao_a_objetos/orientacao_a_objetos_parte2/enumeracoes_5_12/) <br>
 como criar uma enumeração usando a classe do tipo enum
