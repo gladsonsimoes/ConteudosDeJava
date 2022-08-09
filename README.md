@@ -7,42 +7,37 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 <details>
 <summary> Lógica de Programação </summary>
 
-<h4 align="">
- 
-[01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br>
- 
+#### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br>
 ##### os [tipos de variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis/). Como criar e usar variaveis e [CONSTANTES](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/logica_de_programacao/variaveis_e_constantes/04_Constantes.java/)
 
-[02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) <br>  
+#### [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) <br>  
 #####  Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
 
-[03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) <br> 
+#### [03 - Estrutura De Decisao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/estrutura_de_decisao/) <br> 
 ##### Como criar uma estrutura de decisão. <br> 
 ###### if | else | switch | case 
 
-[04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) <br> 
+#### [04 - Iteracao ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/Iteracao/) <br> 
 ##### laço de repetição 
 ######  for | while
 
-[05 - Vetor e Matriz ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/) <br> 
+#### [05 - Vetor e Matriz ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/vetores/) <br> 
 ##### como criar vetor e matriz!
 
-[06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
+#### [06 - Metodos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/metodos/) 
 ##### Criar um metodo 
 ###### static | void e return 
 
-[07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/)<br>
+#### [07 - programacao orientada a objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/)<br>
 ##### como criar encapsulamento [(usando get e set)](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/encapsulamento/) , criando uma [classe](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/programacao_orientada_a_objetos/primeira_classe/)  <br>
 ###### get e set - Getter and setter
 
-[08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) <br> 
+#### [08 - leitura e escrita de dados em arquivos](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/) <br> 
 ##### como criar e ler um arquivo 
 ###### ArrayList | throws | Path | readAllLines
 
-[09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
-
+#### [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 <br>
-
 </details>
 
 <h2 align="center" >
