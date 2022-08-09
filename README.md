@@ -1,20 +1,14 @@
 Aqui estão com todos os links das pastas para navegar com mais facilidade, é só clicar nos [hyperlinks](https://www.google.com/search?client=opera-gx&hs=JQq&sxsrf=ALiCzsYOAQjwW029Jwm6saXhOqgFDZ9csg:1659743486925&q=Hiperlink+exemplo&sa=X&ved=2ahUKEwibhNOn8rD5AhXUAdQKHfBLAjkQ1QJ6BAgrEAE&biw=1325&bih=637&dpr=1/) para acessar a pasta ou o arquivo.
 
 se desejar tenho outro repositório pronto para baixar [clique aqui ](https://github.com/gladsonsimoes/ConteudoJava/)
-
-
 <br><br>
-<h1 align="center" > Tipos de Variaveis
 
-## [Variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis//) 
-### Variaveis Java do tipo wrapper e primitive 
-
-<br>
-
-<h1 align="center" > Lógica de Programação
+<h2 align="center" >
+<details>
+<summary> Lógica de Programação </summary>
  
-## [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br> 
-### Como criar e usar variaveis e [CONSTANTES](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/logica_de_programacao/variaveis_e_constantes/04_Constantes.java/)
+#### [01 - Variaveis e constantes ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) <br> 
+#### os [tipos de variaveis](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis/). Como criar e usar variaveis e [CONSTANTES](https://github.com/gladsonsimoes/Lista_ConteudosJava/blob/main/logica_de_programacao/variaveis_e_constantes/04_Constantes.java/)
 
 ## [02 - Operadores](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/operadores/) <br>  
 ###  Como aplicar Fórmula matemática básica em java , operadores logicos , incremento e decremento.
@@ -45,7 +39,12 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [09 - Algoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/algoritmos_avancado/)
 
 <br>
-<h1 align="center" > Orientacao a objetos
+
+</details>
+
+<h2 align="center" >
+<details>
+<summary>  Orientacao a objetos </summary>
 <br>
 <h2 align="center" >Parte 1 <br>
  
@@ -104,8 +103,12 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 
 ## [19 - 5_24_exercicio_interface_e_polimorfismo ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_24_exercicio_interface_e_polimorfismo/)
 <br>
- 
-<h2 align="center"> Tópicos Avançado
+</details>
+
+
+<h2 align="center" >
+<details>
+<summary>  Tópicos Avançado </summary>
 
 ## [01 - 6_2_classe_java_lang_math](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/) <br>
 ### usando Math : PI , max , min , pow , sq , Como arrendondar , gerar números aleatórios
@@ -138,22 +141,32 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 ## [13 - _6_18_ordenando_objetos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_18_ordenando_objetos/) <br>
  
  <br>
- <h2 align="center"> Mais detalhes e frameworks
+</details> 
+<h2 align="center" >
+<details>
+<summary> Mais detalhes e frameworks </summary>
   
  ## [01 - _7_1_metodos_da_classe_string](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_1_metodos_da_classe_string/)
 
  ## [02 - _7_2_joptionpane](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_3_joptionpane/) 
 ### Java Swing e JOPtionPane  
+ </details> 
  
- <br>
- <h2 align="center"> Serializacao
+ 
+
+<h2 align="center" >
+<details>
+<summary> Serializacao </summary>
 
  ## [01 - 9_1_salvando_e_lendo_objetos_em_arquivo ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo/)
 
  ## [02 - 9_2_enviando_objetos_na_rede ](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede/)
  
- <br>
-<h2 align="center"> Novidades do java 7
+ </details> 
+ 
+ <h2 align="center" >
+<details>
+<summary> Novidades do java 7 </summary>
 
 ## [01 - 10_1_separador_de_digitos_em_literais_numericos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_1_separador_de_digitos_em_literais_numericos/)
 
@@ -164,12 +177,16 @@ se desejar tenho outro repositório pronto para baixar [clique aqui ](https://gi
 
 ## [04 - 10_4_try_with_resources_e_multi_catch](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_4_try_with_resources_e_multi_catch/) 
  ### estudar mais
+ 
+</details>
 
+ <h2 align="center" >
+<details>
+<summary> Novidades do java 8 </summary>
   <br>
-<h2 align="center"> Novidades do java 8
  
 ## [01 - 11_1_introducao_ao_lambda](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_1_introducao_ao_lambda/)
  
 ## [02 - 11_2_referencia_a_metodos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos/)
-
+</details>
 
