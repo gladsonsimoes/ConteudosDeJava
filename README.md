@@ -208,9 +208,15 @@ como criar uma enumeração usando a classe do tipo enum
 <h1 align="left"> 2 Parte do Conteudo: <br>
 
 
-[ 01 - 11_1_introducao_ao_lambda](/)
-
-[02 - 02 - Referencia a Metodos (11-2)](/)
+<h2 align="left" >
+<details>
+<summary> Novidades do java 8 </summary><br>
+  <br>
+ 
+[01 - 11_1_introducao_ao_lambda](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_1_introducao_ao_lambda/)
+ 
+[02 - 11_2_referencia_a_metodos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos/)
+</details>
 
 [03 - Interfaces Funcionais (11-3)](/)
 
