@@ -79,14 +79,18 @@ Aqui estão com todos os links das pastas para navegar com mais facilidade, é s
 
 </details>
 
-# (Modulo 02) Orientação a objeto avançado
+<h3>
+<details>
+<summary> (Modulo 02) Orientação a objeto avançado </summary>
 
-## Novidades do java 8
+### Novidades do java 8
 
-### [🌐](/) 47 - introducao_ao_lambda (11_1)
-### [🌐](/) 48 - referencia_a_metodos (11_2)
-### [🌐](/) 49 - Interfaces Funcionais (11-3)
-### [🌐](/) 50 - Introdução ao Stream (11-4)
-### [🌐](/) 51 - Api de Data (11-8)
+##### [🌐](/) 47 - introducao_ao_lambda (11_1)
+##### [🌐](/) 48 - referencia_a_metodos (11_2)
+##### [🌐](/) 49 - Interfaces Funcionais (11-3)
+##### [🌐](/) 50 - Introdução ao Stream (11-4)
+##### [🌐](/) 51 - Api de Data (11-8)
+
+</details>
 
 
