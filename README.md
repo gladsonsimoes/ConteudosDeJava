@@ -194,17 +194,6 @@ como criar uma enumeração usando a classe do tipo enum
  
 </details>
 
- <h2 align="left" >
-<details>
-<summary> Novidades do java 8 </summary><br>
-  <br>
- 
-[01 - 11_1_introducao_ao_lambda](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_1_introducao_ao_lambda/)
- 
-[02 - 11_2_referencia_a_metodos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos/)
-</details>
-
-
 <h1 align="left"> 2 Parte do Conteudo: <br>
 
 
@@ -216,10 +205,10 @@ como criar uma enumeração usando a classe do tipo enum
 [01 - 11_1_introducao_ao_lambda](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_1_introducao_ao_lambda/)
  
 [02 - 11_2_referencia_a_metodos](https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos/)
-</details>
 
 [03 - Interfaces Funcionais (11-3)](/)
 
 [04 - Introdução ao Stream (11-4)](/)
 
 [05 - Api de Data (11-8)](/)
+ </details>
