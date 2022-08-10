@@ -10,7 +10,7 @@ https://start.spring.io
 
 Lista dos exercicios (Lógica de Programação) 
 
-[01 - Variaveis e constantes ]
+[01 - Variaveis e constantes ]![alt text](http://url/to/img.png)
 [02 - Operadores]
 [03 - Estrutura De Decisao ] - if | switch
 [04 - Iteracao] - for | while
