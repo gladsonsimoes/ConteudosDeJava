@@ -16,7 +16,9 @@ Aqui estão com todos os links das pastas para navegar com mais facilidade, é s
 
 </details>
 
-# | Orientação a objetos:
+<h3>
+<details>
+<summary> Orientação a objetos: </summary>
 
 ### [🌐](/) 01 - Criando atributos de objetos 
 ### [🌐](/) 02 - Composição Objetos 
@@ -74,6 +76,8 @@ Aqui estão com todos os links das pastas para navegar com mais facilidade, é s
 ### [🌐](/) 42 - Switch case com String (10_2)
 ### [🌐](/) 43 - Diamond (10_3) 
 ### [🌐](/) 44 - try with resources e multi catch (10_4)
+
+</details>
 
 # (Modulo 02) Orientação a objeto avançado
 
