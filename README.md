@@ -1,18 +1,21 @@
 Aqui estão com todos os links das pastas para navegar com mais facilidade, é só clicar nos simbolos🌐 para acessar a pasta ou o arquivo.
 
+<h3>
+<details>
+<summary> Lógica de Programação: </summary>
 
-# | Lógica de Programação: 
+#####  [🌐](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) 01. Variaveis e constantes
+#####  [🌐](/) 02. Operadores 
+#####  [🌐](/) 03. Estrutura De Decisao 
+#####  [🌐](/) 04. Iteracao 
+#####  [🌐](/) 05. Vetores 
+#####  [🌐](/) 06. Metodos 
+#####  [🌐](/) 07. programacao orientada a objetos 
+#####  [🌐](/) 08. leitura e escrita de dados em arquivos 
+#####  [🌐](/) 09. Algoritmos avançado
 
-###  [🌐](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/) 01. Variaveis e constantes
-###  [🌐](/) 02. Operadores 
-###  [🌐](/) 03. Estrutura De Decisao 
-###  [🌐](/) 04. Iteracao 
-###  [🌐](/) 05. Vetores 
-###  [🌐](/) 06. Metodos 
-###  [🌐](/) 07. programacao orientada a objetos 
-###  [🌐](/) 08. leitura e escrita de dados em arquivos 
-###  [🌐](/) 09. Algoritmos avançado
-  
+</details>
+
 # | Orientação a objetos:
 
 ### [🌐](/) 01 - Criando atributos de objetos 
