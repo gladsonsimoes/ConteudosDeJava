@@ -58,40 +58,40 @@
 <h4 align="left">
  <details>
   <summary> Tópicos avançados </summary> <br>
-    <a href="/"> 🌐 </a> 24 - classe java lang math (6_2) <br><br> 
-    <a href="/"> 🌐 </a> 25 - Desafio classe java lang math (6_3)<br><br> 
-    <a href="/"> 🌐 </a> 26 - tratando e lancando_excecoes (6_4)<br><br> 
-    <a href="/"> 🌐 </a> 27 - desafio excecoes (6_5)<br><br> 
-    <a href="/"> 🌐 </a> 28 - Classes StringBuffer e StringBuilder (6_6)<br><br> 
-    <a href="/"> 🌐 </a> 29 - trabalhando com datas (6_7)<br><br> 
-    <a href="/"> 🌐 </a> 30 - desafio datas (6_8)<br><br> 
-    <a href="/"> 🌐 </a> 31 - trabalhando com numeros (6_9)<br><br> 
-    <a href="/"> 🌐 </a> 32 - desafio numeros (6_10)<br><br> 
-    <a href="/"> 🌐 </a> 33 - collections framework (6_11)<br><br> 
-    <a href="/"> 🌐 </a> 34 - metodos equals e hashCode (6_12)<br><br> 
-    <a href="/"> 🌐 </a> 35 - desafio collections (6_13)<br><br> 
-    <a href="/"> 🌐 </a> 36 - ordenando objetos (6_18)<br><br> 
+    <a href="/"> 📂 </a> 24 - classe java lang math (6_2) <br><br> 
+    <a href="/"> 📂 </a> 25 - Desafio classe java lang math (6_3)<br><br> 
+    <a href="/"> 📂 </a> 26 - tratando e lancando_excecoes (6_4)<br><br> 
+    <a href="/"> 📂 </a> 27 - desafio excecoes (6_5)<br><br> 
+    <a href="/"> 📂 </a> 28 - Classes StringBuffer e StringBuilder (6_6)<br><br> 
+    <a href="/"> 📂 </a> 29 - trabalhando com datas (6_7)<br><br> 
+    <a href="/"> 📂 </a> 30 - desafio datas (6_8)<br><br> 
+    <a href="/"> 📂 </a> 31 - trabalhando com numeros (6_9)<br><br> 
+    <a href="/"> 📂 </a> 32 - desafio numeros (6_10)<br><br> 
+    <a href="/"> 📂 </a> 33 - collections framework (6_11)<br><br> 
+    <a href="/"> 📂 </a> 34 - metodos equals e hashCode (6_12)<br><br> 
+    <a href="/"> 📂 </a> 35 - desafio collections (6_13)<br><br> 
+    <a href="/"> 📂 </a> 36 - ordenando objetos (6_18)<br><br> 
   </h4>
        
 <h4 align="left">
 <details>
   <summary> Mais detalhes e frameworks </summary> <br>
-    <a href="/"> 🌐 </a> 37 - metodos_da_classe_string (7_1)<br><br>
-    <a href="/"> 🌐 </a> 38 - joptionpane (7_2) <br><br>
+    <a href="/"> 📂 </a> 37 - metodos_da_classe_string (7_1)<br><br>
+    <a href="/"> 📂 </a> 38 - joptionpane (7_2) <br><br>
     </details>
 <h4 align="left">
 <details>
   <summary> Serializacao </summary> <br> 
-    <a href=""> 🌐 </a> 39 - salvando e lendo objetos em arquivo (9_1) <br><br>
-    <a href=""> 🌐 </a> 40 - enviando objetos na rede (9_2) <br><br>
+    <a href=""> 📂 </a> 39 - salvando e lendo objetos em arquivo (9_1) <br><br>
+    <a href=""> 📂 </a> 40 - enviando objetos na rede (9_2) <br><br>
     </details>
 <h4 align="left">
  <details>
    <summary> Novidades do java 7 </summary><br>    
-    <a href=""> 🌐 </a> 41 - separador de digitos em literais numericos (10_1) <br><br>
-    <a href=""> 🌐 </a> 42 - Switch case com String (10_2)<br><br>
-    <a href=""> 🌐 </a> 43 - Diamond (10_3) <br><br>
-    <a href=""> 🌐 </a> 44 - try with resources e multi catch (10_4) <br><br>
+    <a href=""> 📂 </a> 41 - separador de digitos em literais numericos (10_1) <br><br>
+    <a href=""> 📂 </a> 42 - Switch case com String (10_2)<br><br>
+    <a href=""> 📂 </a> 43 - Diamond (10_3) <br><br>
+    <a href=""> 📂 </a> 44 - try with resources e multi catch (10_4) <br><br>
   </details>
 </details>
 
@@ -101,11 +101,11 @@
     <h4 align="left">
       <details>
         <summary> Novidades do Java 8 </summary> <br>    
-        <a href=""> 🌐 </a> 47 - introducao_ao_lambda (11_1) <br><br>
-        <a href=""> 🌐 </a> 48 - referencia_a_metodos (11_2)<br><br>
-        <a href=""> 🌐 </a> 49 - Interfaces Funcionais (11-3)<br><br>
-        <a href=""> 🌐 </a> 50 - Introdução ao Stream (11-4)<br><br>
-        <a href=""> 🌐 </a> 51 - Api de Data (11-8)<br><br>
+        <a href=""> 📂 </a> 47 - introducao_ao_lambda (11_1) <br><br>
+        <a href=""> 📂 </a> 48 - referencia_a_metodos (11_2)<br><br>
+        <a href=""> 📂 </a> 49 - Interfaces Funcionais (11-3)<br><br>
+        <a href=""> 📂 </a> 50 - Introdução ao Stream (11-4)<br><br>
+        <a href=""> 📂 </a> 51 - Api de Data (11-8)<br><br>
       </h4>
      </details>
 
