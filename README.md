@@ -1,4 +1,4 @@
-<h6 align="left"> Aqui estão com todos os links das pastas para navegar com mais facilidade, é só clicar nos simbolos🌐 para acessar o arquivo. </h4>
+<h6 align="left"> Aqui estão com todos os links das pastas para navegar com mais facilidade, é só clicar nos simbolos 📂  para acessar o arquivo. </h4>
 
 <h3 align="center">
 <details>
