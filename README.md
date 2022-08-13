@@ -2,7 +2,7 @@
 
 <h3 align="center">
 <details>
-<summary> Lógica de Programação </summary> <br>
+<summary> 🗂️ Lógica de Programação </summary> <br>
 <h5 align=left>
 <a href="https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/"> 📂 </a> 01. Variaveis e constantes <br> <br>
     <a href="/">  📂 </a>  02. Operadores <br><br>
@@ -22,7 +22,7 @@
    <details>
     <summary> 📁 Parte 1 </summary> <br>    
        <h5>
-        <a href="/">  📂 </a> 01 Criando atributos de objetos <br><br>
+        <a href="/">  📂 </a> 01 - Criando atributos de objetos <br><br>
          <a href="/"> 📂 </a> 02 - Composição Objetos <br><br>
          <a href="/"> 📂 </a> 03 - Valores Padrão <br><br>
          <a href="/"> 📂 </a> 04 - array <br><br>
@@ -57,7 +57,7 @@
     
 <h4 align="left">
  <details>
-  <summary> Tópicos avançados </summary> <br>
+  <summary> 📁 Tópicos avançados </summary> <br>
     <a href="/"> 📂 </a> 24 - classe java lang math (6_2) <br><br> 
     <a href="/"> 📂 </a> 25 - Desafio classe java lang math (6_3)<br><br> 
     <a href="/"> 📂 </a> 26 - tratando e lancando_excecoes (6_4)<br><br> 
@@ -75,19 +75,19 @@
        
 <h4 align="left">
 <details>
-  <summary> Mais detalhes e frameworks </summary> <br>
+  <summary> 📁 Mais detalhes e frameworks </summary> <br>
     <a href="/"> 📂 </a> 37 - metodos_da_classe_string (7_1)<br><br>
     <a href="/"> 📂 </a> 38 - joptionpane (7_2) <br><br>
     </details>
 <h4 align="left">
 <details>
-  <summary> Serializacao </summary> <br> 
+  <summary> 📁 Serializacao </summary> <br> 
     <a href=""> 📂 </a> 39 - salvando e lendo objetos em arquivo (9_1) <br><br>
     <a href=""> 📂 </a> 40 - enviando objetos na rede (9_2) <br><br>
     </details>
 <h4 align="left">
  <details>
-   <summary> Novidades do java 7 </summary><br>    
+   <summary> 📁 Novidades do java 7 </summary><br>    
     <a href=""> 📂 </a> 41 - separador de digitos em literais numericos (10_1) <br><br>
     <a href=""> 📂 </a> 42 - Switch case com String (10_2)<br><br>
     <a href=""> 📂 </a> 43 - Diamond (10_3) <br><br>
@@ -97,10 +97,10 @@
 
 <h3 align="center">
 <details>
-    <summary> (Modulo 02) Orientação a objeto avançado </summary>
+    <summary> 🗂️ Orientação a objetos (Modulo 02) </summary>
     <h4 align="left">
       <details>
-        <summary> Novidades do Java 8 </summary> <br>    
+        <summary> 📁 Novidades do Java 8 </summary> <br>    
         <a href=""> 📂 </a> 47 - introducao_ao_lambda (11_1) <br><br>
         <a href=""> 📂 </a> 48 - referencia_a_metodos (11_2)<br><br>
         <a href=""> 📂 </a> 49 - Interfaces Funcionais (11-3)<br><br>
