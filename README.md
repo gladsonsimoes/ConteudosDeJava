@@ -5,14 +5,14 @@
 <summary> 🗂️ Lógica de Programação </summary> <br>
 <h5 align=left>
 <a href="https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/logica_de_programacao/variaveis_e_constantes/"> 📂 </a> 01. Variaveis e constantes <br> <br>
-    <a href="/">  📂 </a>  02. Operadores <br><br>
-    <a href="/">  📂 </a>  03. Estrutura De Decisao <br><br>
-    <a href="/">  📂 </a>  04. Iteracao <br><br>
-    <a href="/">  📂 </a>  05. Vetores <br><br>
-    <a href="/">  📂 </a>  06. Metodos <br><br>
-    <a href="/">  📂 </a>  07. programacao orientada a objetos <br><br>
-    <a href="/">  📂 </a>  08. leitura e escrita de dados em arquivos <br><br>
-    <a href="/">  📂 </a>  09. Algoritmos avançado<br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/operadores/">  📂 </a>  02. Operadores <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/estrutura_de_decisao/">  📂 </a>  03. Estrutura De Decisao <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/Iteracao/">  📂 </a>  04. Iteracao <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/vetores/">  📂 </a>  05. Vetores <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/metodos/">  📂 </a>  06. Metodos <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/programacao_orientada_a_objetos/">  📂 </a>  07. programacao orientada a objetos <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos/">  📂 </a>  08. leitura e escrita de dados em arquivos <br><br>
+    <a href="https://github.com/gladsonsimoes/ConteudoJava/tree/main/src/com/company/logica_de_programacao/algoritmos_avancado/">  📂 </a>  09. Algoritmos avançado<br><br>
 </details>
     
 <h3 align="center">
