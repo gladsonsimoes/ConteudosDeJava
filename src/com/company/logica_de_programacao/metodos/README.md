@@ -5,7 +5,7 @@
 ~~~java
           imprimirTraco();
 ~~~
-#### final da linha tem que criar um metodo assim :
+#### final da linha tem que criar um metodo assim (OBS: crie o metodo fora do metodo main!):
 ~~~java
         static void imprimirTraco() {
         String padraoTraco = "------------------------------------------------";
