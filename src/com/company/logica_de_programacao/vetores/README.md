@@ -5,7 +5,7 @@
 ~~~
 ### [Aviso!] - Vetores não podem ser colocados os tipos primitivos!
 
-
+<br>
 <h1 align="center">  exemplo de colocar e buscar valor de um array! </h1>
 
 ~~~java
