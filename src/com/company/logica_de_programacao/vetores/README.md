@@ -5,7 +5,8 @@
 ~~~
 ### [Aviso!] - Vetores não podem ser colocados os tipos primitivos!
 
-exemplo de colocar e buscar valor de um array!
+
+<h1 align="center">  exemplo de colocar e buscar valor de um array! </h1>
 
 ~~~java
 import java.util.Scanner;
