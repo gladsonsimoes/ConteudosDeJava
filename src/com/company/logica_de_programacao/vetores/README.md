@@ -3,8 +3,10 @@
 ~~~java
      String[] vetor = new String[] { "exemplo1" , "exemplo2" }  | Integer[] vetor = new Integer[] { 0 , 1 }
 ~~~
-### [Aviso!] - Vetores não podem ser colocados os tipos primitivos!
+Help: <a href
 
+<a name="colocar_Buscar_Valor_semPosicao">
+<br>
 <br>
 <h1 align="center">  exemplo de colocar e buscar valor de um array! </h1>
 
@@ -47,3 +49,4 @@ public class testVetor {
     }
 }
 ~~~
+</a>
