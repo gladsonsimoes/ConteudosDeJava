@@ -3,7 +3,7 @@
 ~~~java
      String[] vetor = new String[] { "exemplo1" , "exemplo2" }  | Integer[] vetor = new Integer[] { 0 , 1 }
 ~~~
-Help: <a href
+Help: <a href="#colocar_Buscar_Valor_semPosicao"> colocar_Buscar_Valor_semPosicao </a>
 
 <a name="colocar_Buscar_Valor_semPosicao">
 <br>
