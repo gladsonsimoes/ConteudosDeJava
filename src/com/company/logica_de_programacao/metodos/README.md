@@ -13,4 +13,4 @@
     }
 ~~~
 
-Quando o metodo é colocado como static void sem os public , private e protected significa que ele é deffault do metodo main!
+#### Quando o metodo é colocado como static void sem os public , private e protected significa que ele é deffault do metodo main!
