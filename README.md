@@ -35,7 +35,7 @@
 
 <h2 align="center"> 🗂️ Orientação a objetos </h2>
 <div>
-  <h3> 📁 Parte 1 </h3>
+  <h3> <b> - 📁 Parte 1 <b> </h3>
   <div>
     <h4>
       <a
@@ -57,7 +57,7 @@
   </div>
 
   <div>
-    <h3> 📁 Parte 2 </h3>
+    <h3> - 📁 Parte 2 </h3>
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/">
@@ -120,7 +120,7 @@
   </div>
 
   <div>
-    <h3> 📁 Tópicos avançados </h3>
+    <h3> - 📁 Tópicos avançados </h3>
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/">
@@ -165,7 +165,7 @@
   </div>
 
   <div>
-    <h3> 📁 Mais detalhes e frameworks </h3>
+    <h3> - 📁 Mais detalhes e frameworks </h3>
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_1_metodos_da_classe_string/">
@@ -180,7 +180,7 @@
   </div>
 
   <div>
-    <h3>📁 Serializacao</h3>
+    <h3> - 📁 Serializacao</h3>
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo">
@@ -192,7 +192,7 @@
   </div>
 
   <div>
-    <h3> 📁 Novidades do java 7 </h3>
+    <h3> - 📁 Novidades do java 7 </h3>
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_1_separador_de_digitos_em_literais_numericos">
