@@ -1,5 +1,5 @@
 <body>
-<h6 align="center"> Listas dos projetos </h6>
+<h6 align="center"> Listas dos projetos (Use CRTL + F para pesquisar!) </h6>
 <!-- TÓPICO 1 -->
 <h2 align="center"> 🗂️ Lógica de Programação </h2>
 <div align="left">
