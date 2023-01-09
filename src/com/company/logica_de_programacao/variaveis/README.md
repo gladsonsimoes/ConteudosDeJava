@@ -9,12 +9,20 @@ Tipos wrapper é um tipo de dado por referencia , veja as variaveis do tipo wrap
 
 
 ~~~
-Integer
+//tipo texto
 String 
-Double 
+
+//tipo logico (verifica se verdadeiro ou falso)
 Boolean
-Float
-Long
+
+//tipos numericos 
+
+Byte numeroByte = 127; // -128 ate 127
+Short numeroShort = -32768; // -32768 ate 32767
+Integer numeroInteger = 2147483647; // -2147483648 ate 2147483647
+Long numeroLong = 1L; // -9,223372037x10^18 ate 9,223372037x10^18
+Float numeroFloat = 1.0f;
+Double numeroDouble = 1.0;
 ~~~
 
 ### Tipo primitive 
