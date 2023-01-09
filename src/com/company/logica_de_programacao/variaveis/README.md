@@ -21,13 +21,16 @@ Charactere
 ~~~java
 Boolean
 ~~~
-#### Numericos:
-
+#### Numeros Inteiros
 ~~~java
 Byte numeroByte = 127; // -128 ate 127
 Short numeroShort = -32768; // -32768 ate 32767
 Integer numeroInteger = 2147483647; // -2147483648 ate 2147483647
 Long numeroLong = 1L; // -9,223372037x10^18 ate 9,223372037x10^18
+~~~
+
+#### Numeros Reais
+~~~java
 Float numeroFloat = 1.0f;
 Double numeroDouble = 1.0;
 ~~~
@@ -46,16 +49,18 @@ char  variavelChar = 'A' ; //usado para um caractere especial, letra ou numero
 boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false)
 ~~~
 
-#### numericos
+#### Numeros Inteiros
 ~~~java
-byte 
-short
-int variavelInteger = 1 ; //valores inteiros
-long 
+byte numeroByte = 127; // -128 ate 127
+short numeroShort = -32768; // -32768 ate 32767
+int numeroInteger = 2147483647; // -2147483648 ate 2147483647
+long numeroLong = 1L; // -9,223372037x10^18 ate 9,223372037x10^18
+~~~
+
+#### Numeros Reais
+~~~java
 float variavelFloat = 1.0f ; //armazena valores numéricos em ponto flutuante de precisão simples
 double variavelDouble =  1.0 ; //armazena valores numéricos em ponto flutuante de precisão dupla 
-boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false)
-
 ~~~
 
 <a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html"> Clique e Veja mais informações no site do Java!</a>
