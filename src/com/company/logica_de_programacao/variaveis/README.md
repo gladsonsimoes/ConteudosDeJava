@@ -23,26 +23,20 @@ tipo primitivo é um tipo dado de variavel que sempre é inicializado em 0 , var
 
 ~~~java
 byte 
-~~~
-~~~java
+
 short
-~~~
-~~~java
+
 int variavelInteger = 1 ; //valores inteiros
-~~~
-~~~java
+
 long 
-~~~
-~~~java
+
 float variavelFloat = 1.0f ; //armazena valores numéricos em ponto flutuante de precisão simples
-~~~
-~~~java
+
+
 double variavelDouble =  1.0 ; //armazena valores numéricos em ponto flutuante de precisão dupla 
-~~~
-~~~java
+
 boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false)
-~~~
-~~~java
+
 char  variavelChar = 'A' ; //usado para um caractere especial, letra ou numero
 ~~~
 
