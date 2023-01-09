@@ -14,6 +14,7 @@ String
 
 #### caractere:
 ~~~java
+Charactere 
 ~~~
 
 #### Logico (verifica se verdadeiro ou falso):
