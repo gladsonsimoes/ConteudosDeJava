@@ -35,7 +35,7 @@
 
 <h2 align="center"> 🗂️ Orientação a objetos </h2>
 <div>
-  <h3> <b> - 📁 Parte 1 <b> </h3>
+  <h3> - 📁 Parte 1  </h3>
   <div>
     <h4>
       <a
