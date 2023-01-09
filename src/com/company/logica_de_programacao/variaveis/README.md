@@ -14,7 +14,16 @@ Integer , String , Double , Boolean
 
 tipo primitivo é um tipo dado de variavel que sempre é inicializado em 0 , variaveis tipe primitive:
 
-byte , short , int , long , float , double , boolean , char 
+~~~java
+byte 
+short
+int 
+long 
+float
+double
+boolean
+char 
+~~~
 
 <a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html"> Clique e Veja mais informações no site Java!</a>
 
