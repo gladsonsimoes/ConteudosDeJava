@@ -4,9 +4,12 @@
 <h2 align="center"> 🗂️ Lógica de Programação </h2>
 <div align="left">
   <h4>
+      <a
+      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/variaveis">
+      📂 </a> 01.0 Variaveis <br> <br>
     <a
       href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/variaveis_e_constantes">
-      📂 </a> 01. Variaveis e constantes <br> <br>
+      📂 </a> 01.1 Variaveis e constantes <br> <br>
     <a
       href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/operadores">
       📂 </a> 02. Operadores <br><br>
