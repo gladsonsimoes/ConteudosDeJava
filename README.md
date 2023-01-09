@@ -16,7 +16,7 @@
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/Iteracao">
       📂 </a> 04. Iteracao ( Laço de repetição: for e while ) <br><br>
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/vetores">
-      📂 </a> 05. Vetores (arrays) <br><br>
+      📂 </a> 05. Vetores ( Arrays ) <br><br>
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/metodos">
       📂 </a> 06. Metodos <br><br>
     <a
