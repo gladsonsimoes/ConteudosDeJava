@@ -39,7 +39,7 @@
   <div>
     <h4>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/programacao_orientada_a_objetos">
+      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/programacao_orientada_a_objetos">
       📂 </a> programacao orientada a objetos <br><br>
       <a
   href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/">
