@@ -36,22 +36,26 @@ Double numeroDouble = 1.0;
 
 tipo primitivo é um tipo dado de variavel que sempre é inicializado em 0 , variaveis tipe primitive:
 
+#### caractere
+~~~java
+char  variavelChar = 'A' ; //usado para um caractere especial, letra ou numero
+~~~
+
+#### logico
+~~~java
+boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false)
+~~~
+
+#### numericos
 ~~~java
 byte 
-
 short
-
 int variavelInteger = 1 ; //valores inteiros
-
 long 
-
 float variavelFloat = 1.0f ; //armazena valores numéricos em ponto flutuante de precisão simples
-
 double variavelDouble =  1.0 ; //armazena valores numéricos em ponto flutuante de precisão dupla 
-
 boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false)
 
-char  variavelChar = 'A' ; //usado para um caractere especial, letra ou numero
 ~~~
 
 <a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html"> Clique e Veja mais informações no site do Java!</a>
