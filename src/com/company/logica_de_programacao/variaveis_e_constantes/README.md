@@ -4,7 +4,7 @@ as constantes em java é usado para representar um valor definido atraves de um 
 exemplo da sintaxe:
 
 ~~~java
-static final Integer IDADE_CONSTANTE = 1;
+static final usarvariavel NOME_CONSTANTE = valorDoTipoDaVariavel;
 ~~~
 
 exemplo de como usar:
