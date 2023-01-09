@@ -81,7 +81,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/IdeaProjects/ConteudoJava",
+    "last_opened_file_path": "C:/IdeaProjects/ConteudosDeJava",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -93,7 +93,7 @@
       <recent name="C:\Users\Administrador\IdeaProjects\ConteudoJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.company.orientacao_a_objetos_modulo2._11_3_interfaces_funcionais.Teste.Teste">
+  <component name="RunManager" selected="Application.Exemplo">
     <configuration name="Exemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.orientacao_a_objetos_modulo2._11_2_referencia_a_metodos.exemplo.Exemplo" />
       <module name="ConteudoJava" />
@@ -158,9 +158,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.company.orientacao_a_objetos_modulo2._11_3_interfaces_funcionais.Teste.Teste" />
-        <item itemvalue="Application.com.company.orientacao_a_objetos_modulo2._11_2_referencia_a_metodos.exemplo.Exemplo" />
-        <item itemvalue="Application.com.company.orientacao_a_objetos_modulo2._11_1_introducao_ao_lambda_.exemplo.ExemploLambda" />
         <item itemvalue="Application.SwitchCaseComString" />
       </list>
     </recent_temporary>
