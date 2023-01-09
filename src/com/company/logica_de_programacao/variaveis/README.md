@@ -35,6 +35,10 @@ Float numeroFloat = 1.0f;
 Double numeroDouble = 1.0;
 ~~~
 
+<br>
+<hr>
+<br>
+
 ### Tipo primitive 
 
 tipo primitivo é um tipo dado de variavel que sempre é inicializado em 0 , variaveis tipe primitive:
