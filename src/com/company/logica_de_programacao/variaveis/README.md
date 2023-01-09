@@ -32,7 +32,6 @@ long
 
 float variavelFloat = 1.0f ; //armazena valores numéricos em ponto flutuante de precisão simples
 
-
 double variavelDouble =  1.0 ; //armazena valores numéricos em ponto flutuante de precisão dupla 
 
 boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false)
