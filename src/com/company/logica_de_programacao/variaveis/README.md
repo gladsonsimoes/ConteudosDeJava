@@ -17,13 +17,13 @@ tipo primitivo é um tipo dado de variavel que sempre é inicializado em 0 , var
 ~~~java
 byte 
 short
-int 
+int variavelInteger = 1 ; //valores inteiros
 long 
 float                             
-double variavelDouble =  1.0;  //usado para valores reais (usando somente ponto)
-boolean variavelBoolean = true; //usado para pegar dados se é true ou false 
+double variavelDouble =  1.0 ;  //valores reais (use somente ponto!)
+boolean variavelBoolean = true ; //pegar dados booleanos se a condição é verdadeiro ou falso. (true or false)
 char  variavelChar = 'A' ; //usado para um caractere especial, letra ou numero
 ~~~
 
-<a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html"> Clique e Veja mais informações no site Java!</a>
+<a href="https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html"> Clique e Veja mais informações no site do Java!</a>
 
