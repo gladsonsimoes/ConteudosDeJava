@@ -115,7 +115,7 @@
         📂 </a> interfaces <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_24_exercicio_interface_e_polimorfismo/desafio/">
-        📂 </a> exercicio_interface_e_polimorfismo (5_24) <br><br>
+        📂 </a> exercicio_interface_e_polimorfismo <br><br>
     </h4>
   </div>
 
