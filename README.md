@@ -79,40 +79,40 @@
         📂 </a> desafio_objeto_this_e_construtores <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_static_e_final_5_11/">
-        📂 </a> desafio_static_e_final (5_11)<br><br>
+        📂 </a> desafio_static_e_final <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/enumeracoes_5_12/">
-        📂 </a> enumeracoes (5_12) <br><br>
+        📂 </a> enumeracoes (enum) <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_pacotes_e_enumeracoes_5_13/">
-        📂 </a> desafio_pacotes_e_enumeracoes (5_13) <br><br>
+        📂 </a> desafio_pacotes_e_enumeracoes  <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/heranca_e_modificador_protected_5_14/">
-        📂 </a> heranca_e_modificador_protected (5_14) <br><br>
+        📂 </a> heranca_e_modificador_protected <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/sobreposicao_5_16/">
-        📂 </a> sobreposicao (5_16) <br><br>
+        📂 </a> sobreposicao  <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_heranca_e_sobreposicao_5_17/">
-        📂 </a> desafio heranca e sobreposicao (5_17) <br><br>
+        📂 </a> desafio heranca e sobreposicao  <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_18_sobrecarga/">
-        📂 </a> sobrecarga (5_18)<br><br>
+        📂 </a> sobrecarga <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_19_exercicio_sobrecarga/">
-        📂 </a> exercicio_sobrecarga (5_19)<br><br>
+        📂 </a> exercicio_sobrecarga <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_20_polimorfismo/">
-        📂 </a> polimorfismo - cast de objeto (5_20)<br><br>
+        📂 </a> polimorfismo - cast de objeto <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_21_classes_abstratas/">
-        📂 </a> Classes Abstratas (5_21)<br><br>
+        📂 </a> Classes Abstratas <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_21_classes_abstratas/">
-        📂 </a> desafio_polimorfismo_e_classes_abstrata (5_22)<br><br>
+        📂 </a> desafio_polimorfismo_e_classes_abstrata <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_23_interfaces/">
-        📂 </a> interfaces (5_23)<br><br>
+        📂 </a> interfaces <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_24_exercicio_interface_e_polimorfismo/desafio/">
         📂 </a> exercicio_interface_e_polimorfismo (5_24) <br><br>
@@ -124,43 +124,43 @@
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/">
-        📂 </a> classe java lang math (6_2) <br><br>
+        📂 </a> classe java lang math  <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_3_desafio_java_lang_math/">
-        📂 </a> Desafio classe java lang math (6_3)<br><br>
+        📂 </a> Desafio classe java lang math <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/">
-        📂 </a> tratando e lancando_excecoes (6_4)<br><br>
+        📂 </a> tratando e lancando_excecoes <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_5_desafio_excecoes/">
-        📂 </a> desafio excecoes (6_5)<br><br>
+        📂 </a> desafio excecoes <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_6_Classes_StringBuffer_e_StringBuilder/">
-        📂 </a> Classes StringBuffer e StringBuilder (6_6)<br><br>
+        📂 </a> Classes StringBuffer e StringBuilder <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_7_trabalhando_com_datas/">
-        📂 </a> trabalhando com datas (6_7)<br><br>
+        📂 </a> trabalhando com datas <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/">
-        📂 </a> desafio datas (6_8)<br><br>
+        📂 </a> desafio datas <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/">
-        📂 </a> trabalhando com numeros (6_9)<br><br>
+        📂 </a> trabalhando com numeros <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/">
-        📂 </a> desafio numeros (6_10)<br><br>
+        📂 </a> desafio numeros<br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/">
-        📂 </a> collections framework (6_11)<br><br>
+        📂 </a> collections framework <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/">
-        📂 </a> metodos equals e hashCode (6_12)<br><br>
+        📂 </a> metodos equals e hashCode <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_desafio_collections/">
-        📂 </a> desafio collections (6_13)<br><br>
+        📂 </a> desafio collections <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/topicos_avancados/_6_18_ordenando_objetos/">
-        📂 </a> ordenando objetos (6_18)<br><br>
+        📂 </a> ordenando objetos <br><br>
     </h4>
   </div>
 
@@ -169,13 +169,13 @@
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_1_metodos_da_classe_string/">
-        📂 </a> metodos_da_classe_string (7_1)<br><br>
+        📂 </a> metodos_da_classe_string <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_3_joptionpane/">
-        📂 </a> joptionpane (7_2) <br><br>
+        📂 </a> joptionpane  <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_11_introducao_a_generics">
-        📁 </a> introducao_a_generics (7_11) <br><br>
+        📁 </a> introducao_a_generics <br><br>
     </h4>
   </div>
 
@@ -184,10 +184,10 @@
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo">
-        📂 </a> salvando e lendo objetos em arquivo (9_1) <br><br>
+        📂 </a> salvando e lendo objetos em arquivo <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede">
-        📂 </a> enviando objetos na rede (9_2) <br><br>
+        📂 </a> enviando objetos na rede <br><br>
     </h4>
   </div>
 
@@ -196,16 +196,16 @@
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_1_separador_de_digitos_em_literais_numericos">
-        📂 </a> separador de digitos em literais numericos (10_1) <br><br>
+        📂 </a> separador de digitos em literais numericos <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_2_switch_case_com_string">
-        📂 </a> Switch case com String (10_2)<br><br>
+        📂 </a> Switch case com String <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_3_diamond">
-        📂 </a> Diamond (10_3) <br><br>
+        📂 </a> Diamond <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_4_try_with_resources_e_multi_catch">
-        📂 </a> try with resources e multi catch (10_4) <br><br>
+        📂 </a> try with resources e multi catch  <br><br>
     </h4>
   </div>
 </div>
@@ -216,13 +216,13 @@
     <h4>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_1_introducao_ao_lambda">
-        📂 </a> introducao_ao_lambda (11_1) <br><br>
+        📂 </a> introducao_ao_lambda <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos">
-        📂 </a> referencia_a_metodos (11_2)<br><br>
-      <a href=""> 📂 </a> Interfaces Funcionais (11-3)<br><br>
+        📂 </a> referencia_a_metodos <br><br>
+    <!--  <a href=""> 📂 </a> Interfaces Funcionais (11-3)<br><br>
       <a href=""> 📂 </a> Introdução ao Stream (11-4)<br><br>
-      <a href=""> 📂 </a> Api de Data (11-8)<br><br>
+      <a href=""> 📂 </a> Api de Data (11-8)<br><br> -->
     </h4>
   </div>
 </body>
