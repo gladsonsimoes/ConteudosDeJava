@@ -12,11 +12,11 @@
       📂 </a> 02. Operadores <br><br>
     <a
       href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/estrutura_de_decisao">
-      📂 </a> 03. Estrutura De Decisao (if e else) <br><br>
+      📂 </a> 03. Estrutura De Decisao ( If e else ) <br><br>
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/Iteracao">
-      📂 </a> 04. Iteracao (laço de repetição: for e while) <br><br>
+      📂 </a> 04. Iteracao ( Laço de repetição: for e while ) <br><br>
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/vetores">
-      📂 </a> 05. Vetores <br><br>
+      📂 </a> 05. Vetores (arrays) <br><br>
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/metodos">
       📂 </a> 06. Metodos <br><br>
     <a
