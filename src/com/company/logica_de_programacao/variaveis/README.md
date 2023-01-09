@@ -1,5 +1,5 @@
 # Variaveis
-os atributos conhecido também como variavéis em java tem suas diferenças também é composto por variaveis simples 
+os atributos conhecido também como variavéis em java tem suas diferenças de valores 
 
 ## Tipos de Dados em Java  Wrappers e primitive
 em Java existe dois tipos de dados para criar uma variável:
