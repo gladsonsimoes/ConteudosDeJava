@@ -7,16 +7,22 @@ em Java existe dois tipos de dados para criar uma variável:
 ### Tipo Wrapper 
 Tipos wrapper é um tipo de dado por referencia , veja as variaveis do tipo wrapper:
 
-
-~~~
-//tipo texto
+#### texto:
+~~~java
 String 
+~~~
 
-//tipo logico (verifica se verdadeiro ou falso)
+#### caractere:
+~~~java
+~~~
+
+#### Logico (verifica se verdadeiro ou falso):
+~~~java
 Boolean
+~~~
+#### Numericos:
 
-//tipos numericos 
-
+~~~java
 Byte numeroByte = 127; // -128 ate 127
 Short numeroShort = -32768; // -32768 ate 32767
 Integer numeroInteger = 2147483647; // -2147483648 ate 2147483647
