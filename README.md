@@ -23,9 +23,6 @@
     <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/metodos">
       📂 </a> 06. Metodos <br><br>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/programacao_orientada_a_objetos">
-      📂 </a> 07. programacao orientada a objetos <br><br>
-    <a
       href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos">
       📂 </a> 08. leitura e escrita de dados em arquivos <br><br>
     <a
@@ -41,8 +38,11 @@
   <h3> - 📁 Parte 1  </h3>
   <div>
     <h4>
+    <a
+      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/programacao_orientada_a_objetos">
+      📂 </a> programacao orientada a objetos <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/">
+  href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/">
         📂 </a> 01 - Criando atributos de objetos
       <br><br>
       <a
