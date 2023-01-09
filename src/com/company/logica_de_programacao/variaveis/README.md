@@ -17,9 +17,9 @@ String
 Charactere 
 ~~~
 
-#### Logico (verifica se verdadeiro ou falso):
+#### Logico (Booleano)
 ~~~java
-Boolean
+Boolean variavelBoolean = true ; //pegar dados se a condição é verdadeiro ou falso. (true or false | 1 or 0)
 ~~~
 #### Numeros Inteiros
 ~~~java
