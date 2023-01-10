@@ -227,7 +227,7 @@
   </div>
 <hr>
 <div>
-<h3> Conteudos legais de adquirir sobre o Java </h3>
+<h3 align="center"> Conteudos legais de adquirir sobre o Java </h3>
 
 [Palavras em java](https://www.devmedia.com.br/o-que-significa-cada-palavra-reservada/8320#:~:text=%C2%B7%20this%3A%20Vari%C3%A1vel%20de%20refer%C3%AAncia%20que,de%20retorno%20para%20o%20m%C3%A9todo./)
 
