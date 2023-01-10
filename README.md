@@ -225,8 +225,15 @@
       <a href=""> 📂 </a> Api de Data (11-8)<br><br> -->
     </h4>
   </div>
+<hr>
+<div>
+<h3> Conteudos legais de adquirir sobre o Java </h3>
+
+[Palavras em java](https://www.devmedia.com.br/o-que-significa-cada-palavra-reservada/8320#:~:text=%C2%B7%20this%3A%20Vari%C3%A1vel%20de%20refer%C3%AAncia%20que,de%20retorno%20para%20o%20m%C3%A9todo./)
+
+
+</div>
 </body>
 
-  <!-- <h4> Visão Geral: </h4>
     
-    Lógica de Programação -->
+    
