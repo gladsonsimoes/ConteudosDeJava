@@ -3,15 +3,17 @@ package com.company.orientacao_a_objetos.orientacao_a_objetos_parte2.o_objeto_th
 import com.company.orientacao_a_objetos.orientacao_a_objetos_parte1.composicao_objetos.Proprietario;
 
 public class Carro {
+    //atributos da Classe carro
     String fabricante;
     String modelo;
     String  cor;
     int anoDeFabricacao;
     boolean biCombustivel;
     Proprietario dono;
+    
     void alterarModelo(String modelo){
         if (modelo != null) {
-            this.modelo = modelo;
+            this.modelo = modelo; 
         }
     }
 
