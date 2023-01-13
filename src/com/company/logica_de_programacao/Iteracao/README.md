@@ -17,11 +17,11 @@ Exemplo WHILE:
 ~~~java
 int i = 0;
  while (i < 10) {
-	  if (i == 5) {
-	    System.out.println("Vai parar!");
-		break;			
-       }
-		System.out.println(i + ": Um texto qualquer.");
-		i++;
+	 if (i == 5) {
+	 System.out.println("Vai parar!");
+	 break;			
+         }
+	System.out.println(i + ": Um texto qualquer.");
+	i++;
  }
 ~~~
