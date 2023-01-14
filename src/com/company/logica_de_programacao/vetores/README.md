@@ -14,9 +14,21 @@ vetor = new int[10];
 ~~~java
 int vetor[] = new int[10];
 ~~~
+
+## Inicialização de vetores
+Java permite a inicialização de vetores no momento da declaração, por exemplo:
 ~~~java
-Integer[] vetor = new Integer[] { 0 , 1 };
+String nome[] = {"Juca Bala", "Maria da Silva", "Marcos Paqueta"};
 ~~~
+o array sempre inicializa em 0, isso significa que :
+~~~java
+nome[0] //terá o valor Juca Bala
+nome[1] //terá o valor Maria da Silva 
+nome[2] //terá o valor Marcos Paqueta
+~~~
+Nota-se que colocando valores no array ( valores são dentro da chaves "{}" ) NÃO é necessário adicionar o tamanho do vetor ( tamanho do vetor é dentro do colchetes [] ) e também não precisa da alocação de espaço através do operador new. <br>
+
+O tamanho do vetor será conhecido através do campo length como mostra a aplicação a seguir:
 
 <br>
 <br>
