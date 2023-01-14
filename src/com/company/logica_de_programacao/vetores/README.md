@@ -1,12 +1,23 @@
 # Vetores
 ### Usado vetor exemplo :
 ~~~java
-     String[] vetor = new String[] { "exemplo1" , "exemplo2" }
+String[] vetor = new String[] { "exemplo1" , "exemplo2" }
 ~~~
 
 ~~~java
 Integer[] vetor = new Integer[] { 0 , 1 }
 ~~~
+
+#### declarar todas as posições do vetor ( sem valor nenhum )
+~~~java
+int[] vetor = new int[10]
+~~~
+
+#### declarar todas as posições do vetor ( com valor 
+~~~java
+int[] vetor = new int[2] { 0 , 1 }
+~~~
+
 
 <br>
 <br>
