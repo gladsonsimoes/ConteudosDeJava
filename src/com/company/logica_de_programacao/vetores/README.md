@@ -1,23 +1,22 @@
 # Vetores
-### Usado vetor exemplo :
+
+### Declaração de um vetor:
 ~~~java
-String[] vetor = new String[] { "exemplo1" , "exemplo2" }
+int vetor[]; 
 ~~~
 
+### Alocação de espaço para vetor
 ~~~java
-Integer[] vetor = new Integer[] { 0 , 1 }
+vetor = new int[10];
 ~~~
 
-#### declarar todas as posições do vetor ( sem valor nenhum )
+### Declaração combinada
 ~~~java
-int[] vetor = new int[10]
+int vetor[] = new int[10];
 ~~~
-
-#### declarar todas as posições do vetor ( com valor 
 ~~~java
-int[] vetor = new int[2] { 0 , 1 }
+Integer[] vetor = new Integer[] { 0 , 1 };
 ~~~
-
 
 <br>
 <br>
