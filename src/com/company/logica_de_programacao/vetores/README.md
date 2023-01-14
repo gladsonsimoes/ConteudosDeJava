@@ -1,11 +1,13 @@
 # Vetores
-### - usando vetor exemplo :
+### Usado vetor exemplo :
 ~~~java
-     String[] vetor = new String[] { "exemplo1" , "exemplo2" }  | Integer[] vetor = new Integer[] { 0 , 1 }
+     String[] vetor = new String[] { "exemplo1" , "exemplo2" }
 ~~~
-Help: <a href="#colocar_Buscar_Valor_semPosicao"> colocar_Buscar_Valor_semPosicao </a>
 
-<a name="colocar_Buscar_Valor_semPosicao">
+~~~java
+Integer[] vetor = new Integer[] { 0 , 1 }
+~~~
+
 <br>
 <br>
 <h1 align="center">  exemplo de colocar e buscar valor de um array! </h1>
@@ -49,4 +51,4 @@ public class testVetor {
     }
 }
 ~~~
-</a>
+
