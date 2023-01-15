@@ -8,25 +8,25 @@
       href="src/com/company/logica_de_programacao/variaveis">
       📂 </a> Variaveis <br> <br>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/variaveis_e_constantes">
+      href="src/com/company/logica_de_programacao/variaveis_e_constantes">
       📂 </a> Variaveis e constantes <br> <br>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/operadores">
+      href="src/com/company/logica_de_programacao/operadores">
       📂 </a> Operadores <br><br>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/estrutura_de_decisao">
+      href="src/com/company/logica_de_programacao/estrutura_de_decisao">
       📂 </a> Estrutura De Decisao ( If e else ) <br><br>
-    <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/Iteracao">
+    <a href="src/com/company/logica_de_programacao/Iteracao">
       📂 </a> Iteracao ( Laço de repetição: for e while ) <br><br>
-    <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/vetores">
+    <a href="src/com/company/logica_de_programacao/vetores">
       📂 </a> Vetores ( Arrays ) <br><br>
-    <a href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/metodos">
+    <a href="src/com/company/logica_de_programacao/metodos">
       📂 </a> Metodos <br><br>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos">
+      href="src/com/company/logica_de_programacao/leitura_e_escrita_de_dados_em_arquivos">
       📂 </a> leitura e escrita de dados em arquivos <br><br>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/algoritmos_avancado">
+      href="src/com/company/logica_de_programacao/algoritmos_avancado">
       📂 </a> Algoritmos avançado<br><br>
   </h4>
 </div>
@@ -39,19 +39,19 @@
   <div>
     <h4>
     <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/programacao_orientada_a_objetos">
+      href="src/com/company/orientacao_a_objetos/programacao_orientada_a_objetos">
       📂 </a> programacao orientada a objetos <br><br>
       <a
-  href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/">
+  href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/acessando_atributos_de_objetos/">
         📂 </a> Criando atributos de objetos<br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/composicao_objetos/">
         📂 </a> Composição Objetos <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/valores_padrao/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/valores_padrao/">
         📂 </a> Valores Padrão <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/array/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte1/array/">
         📂 </a> Array <br><br>
     </h4>
   </div>
@@ -60,19 +60,19 @@
     <h3> - 📁 Parte 2 </h3>
     <h4>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/o_objeto_this/">
         📂 </a> o objeto This <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/construtores/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/construtores/">
         📂 </a> Teste Construtor(Construtores) <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/encapsulamento_e_modificadores_de_acesso_public_e_private/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/encapsulamento_e_modificadores_de_acesso_public_e_private/">
         📂 </a> Encapsulamento <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/modificador_de_acesso_default/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/modificador_de_acesso_default/">
         📂 </a> modificador_de_acesso_default <br><br>
       <a
-        href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/modificadores_static_e_final/">
+        href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/modificadores_static_e_final/">
         📂 </a> modificadores_static_e_final <br><br>
       <a
         href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/desafio_objeto_this_e_construtores/">
