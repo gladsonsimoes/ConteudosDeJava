@@ -1,5 +1,5 @@
 # Metodos
-### Este exemplo foi retirado do exercicio : <a href="src/com/company/logica_de_programacao/metodos/PrimeiroMetodo.java"> PrimeiroMetodo </a> 
+### Este exemplo foi retirado do exercicio : <a href="PrimeiroMetodo.java"> PrimeiroMetodo </a> 
 ### como usar um metodo ?
 ### para invocar :
 ~~~java
