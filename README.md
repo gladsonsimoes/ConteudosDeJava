@@ -5,7 +5,7 @@
 <div align="left">
   <h4>
       <a
-      href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/variaveis">
+      href="src/com/company/logica_de_programacao/variaveis">
       📂 </a> Variaveis <br> <br>
     <a
       href="https://github.com/gladsonsimoes/ConteudosDeJava/tree/main/src/com/company/logica_de_programacao/variaveis_e_constantes">
