@@ -1,8 +1,7 @@
 # Metodos
-#####  livro sobre metodo
+#####  material sobre metodo
 ##### [Aula 13 - Metodos.pdf](https://github.com/gladsonsimoes/ConteudoJava/files/10435317/Aula.13.-.Metodos.pdf)
-
-
+---
 ### Este exemplo foi retirado do exercicio : <a href="PrimeiroMetodo.java"> PrimeiroMetodo </a> 
 ### como usar um metodo ?
 ### para invocar :
