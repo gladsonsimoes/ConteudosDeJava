@@ -1,8 +1,6 @@
 # Vetores
 ###### Livro sobre vetores:
 ###### [05-Arrays.pdf](https://github.com/gladsonsimoes/ConteudoJava/files/10435259/05-Arrays.pdf)
-###### SItes sobre os vetores: 
-###### [Vetores em Java - Devmedia](https://www.devmedia.com.br/vetores-em-java/21449/)
 ---
 ### Declaração de um vetor:
 ~~~java
