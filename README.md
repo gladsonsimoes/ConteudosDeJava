@@ -180,7 +180,7 @@
   </div>
 
   <div>
-    <h3> - 📁 Serializacao</h3>
+    <h3> - 📁 Serializacao de objetos</h3>
     <h4>
       <a
         href="src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo">
