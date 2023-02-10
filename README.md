@@ -220,9 +220,9 @@
       <a
         href="src/com/company/orientacao_a_objetos/novidades_do_java_8/_11_2_referencia_a_metodos">
         📂 </a> referencia_a_metodos <br><br>
-    <!--  <a href=""> 📂 </a> Interfaces Funcionais (11-3)<br><br>
+   <a href="src/com/company/orientacao_a_objetos_modulo2/_11_3_interfaces_funcionais"> 📂 </a> Interfaces Funcionais (11-3)<br><br>
       <a href=""> 📂 </a> Introdução ao Stream (11-4)<br><br>
-      <a href=""> 📂 </a> Api de Data (11-8)<br><br> -->
+      <a href=""> 📂 </a> Api de Data (11-8)<br><br> 
     </h4>
   </div>
 <hr>
