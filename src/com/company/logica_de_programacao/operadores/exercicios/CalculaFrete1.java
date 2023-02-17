@@ -1,4 +1,4 @@
-package com.company.;
+package com.company.logica_de_programacao.operadores.exercicios;
 
 import java.util.Scanner;
 
