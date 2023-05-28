@@ -15,7 +15,7 @@
       📂 </a> Operadores <br><br>
     <a
       href="src/com/company/logica_de_programacao/estrutura_de_decisao">
-      📂 </a> Estrutura De Decisao ( If e else ) <br><br>
+      📂 </a> Estrutura De Decisao ( If e else - switch e case) <br><br>
     <a href="src/com/company/logica_de_programacao/Iteracao">
       📂 </a> Iteracao ( Laço de repetição: for e while ) <br><br>
     <a href="src/com/company/logica_de_programacao/vetores">
