@@ -10,16 +10,19 @@ tipo[] nomeArray;
 ~~~
 ##### O tipo determina qual será o tipo de dados (que é uma variavel) de todos os elementos que serão armazenados nas posições do array (estrutura homogênea).
 
+---
 
 ### Alocação de espaço para vetor
 ~~~java
 vetor = new int[10];
 ~~~
 
+---
 ### Declaração combinada
 ~~~java
 int vetor[] = new int[10];
 ~~~
+---
 
 ## Inicialização de vetores
 Java permite a inicialização de vetores no momento da declaração, por exemplo:
