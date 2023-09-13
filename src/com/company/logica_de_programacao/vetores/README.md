@@ -4,8 +4,12 @@
 ---
 ### Declaração de um vetor:
 ~~~java
-int vetor[]; 
+tipo nomeArray[];
+//ou
+tipo[] nomeArray;
 ~~~
+##### O tipo determina qual será o tipo de dados (que é uma variavel) de todos os elementos que serão armazenados nas posições do array (estrutura homogênea).
+
 
 ### Alocação de espaço para vetor
 ~~~java
