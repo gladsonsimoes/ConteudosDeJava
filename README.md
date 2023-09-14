@@ -31,6 +31,7 @@
   </h4>
 </div>
 
+---
 <!-- TÓPICO 2 -->
 
 <h2 align="center"> 🗂️ Orientação a objetos </h2>
@@ -209,6 +210,8 @@
     </h4>
   </div>
 </div>
+
+---
   <!-- TOPICO 3 -->
   
    <h2 align="center"> 📁 Novidades do Java 8 </h2> 
