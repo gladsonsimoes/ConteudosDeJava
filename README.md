@@ -45,104 +45,42 @@
 #### 📂  <a href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_21_classes_abstratas/"> Classes Abstratas  </a>
 #### 📂  <a href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_23_interfaces/"> interfaces </a>
 #### 📂  <a href="src/com/company/orientacao_a_objetos/orientacao_a_objetos_parte2/_5_24_exercicio_interface_e_polimorfismo/desafio/"> exercicio_interface_e_polimorfismo </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
 
-### 📁 Tópicos avançados </h3>
+### 📁 Tópicos avançados 
 
 #### 📂  <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_2_classe_java_lang_math/">  classe java lang math  </a>
 #### 📂  <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_3_desafio_java_lang_math/"> Desafio classe java lang math  </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-#### 📂  <a href=""> </a>
-    
- 
+#### 📂  <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/"> tratando e lancando_excecoes </a>
+#### 📂  <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_5_desafio_excecoes/"> desafio excecoes </a>
+#### 📂  <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_6_Classes_StringBuffer_e_StringBuilder/"> Classes StringBuffer e StringBuilder </a>
+#### 📂  <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_7_trabalhando_com_datas/"> trabalhando com datas  </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/"> desafio datas  </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/"> trabalhando com numeros </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/"> desafio numeros </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/"> collections framework </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/"> metodos equals e hashCode </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_desafio_collections/">  desafio collections </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_18_ordenando_objetos/">  ordenando objetos  </a>
 
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_4_tratando_e_lancando_excecoes/">
-        📂 </a> tratando e lancando_excecoes <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_5_desafio_excecoes/">
-        📂 </a> desafio excecoes <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_6_Classes_StringBuffer_e_StringBuilder/">
-        📂 </a> Classes StringBuffer e StringBuilder <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_7_trabalhando_com_datas/">
-        📂 </a> trabalhando com datas <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_8_desafio_datas/">
-        📂 </a> desafio datas <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_9_trabalhando_com_numeros/">
-        📂 </a> trabalhando com numeros <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_10_desafio_numeros/">
-        📂 </a> desafio numeros<br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_11_collections_framework/">
-        📂 </a> collections framework <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_12_metodos_equals_e_hashCode/">
-        📂 </a> metodos equals e hashCode <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_13_desafio_collections/">
-        📂 </a> desafio collections <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/topicos_avancados/_6_18_ordenando_objetos/">
-        📂 </a> ordenando objetos <br><br>
-    </h4>
-  </div>
+### 📁 Mais detalhes e frameworks
 
-  <div>
-    <h3> - 📁 Mais detalhes e frameworks </h3>
-    <h4>
-      <a
-        href="src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_1_metodos_da_classe_string/">
-        📂 </a> metodos_da_classe_string <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_3_joptionpane/">
-        📂 </a> joptionpane  <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_11_introducao_a_generics">
-        📁 </a> introducao_a_generics <br><br>
-    </h4>
-  </div>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_1_metodos_da_classe_string/">  metodos_da_classe_string </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_3_joptionpane/"> joptionpane </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/mais_detalhes_e_framework/_7_11_introducao_a_generics"> introducao_a_generics </a>
 
-  <div>
-    <h3> - 📁 Serializacao de objetos</h3>
-    <h4>
-      <a
-        href="src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo">
-        📂 </a> salvando e lendo objetos em arquivo <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede">
-        📂 </a> enviando objetos na rede <br><br>
-    </h4>
-  </div>
+### 📁 Serializacao de objetos
 
-  <div>
-    <h3> - 📁 Novidades do java 7 </h3>
-    <h4>
-      <a
-        href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_1_separador_de_digitos_em_literais_numericos">
-        📂 </a> separador de digitos em literais numericos <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_2_switch_case_com_string">
-        📂 </a> Switch case com String <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_3_diamond">
-        📂 </a> Diamond <br><br>
-      <a
-        href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_4_try_with_resources_e_multi_catch">
-        📂 </a> try with resources e multi catch  <br><br>
-    </h4>
-  </div>
-</div>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_1_salvando_e_lendo_objetos_em_arquivo"> salvando e lendo objetos em arquivo </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/serializacao_de_objetos/_9_2_enviando_objetos_na_rede"> enviando objetos na rede </a>
+
+---
+
+<br><h2 align="center"> 📁 Novidades do Java 7 </h2> 
+
+#### 📂 <a href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_1_separador_de_digitos_em_literais_numericos"> separador de digitos em literais numericos  </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_2_switch_case_com_string"> Switch case com String </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_3_diamond"> Diamond </a>
+#### 📂 <a href="src/com/company/orientacao_a_objetos/novidades_do_java_7/_10_4_try_with_resources_e_multi_catch"> try with resources e multi catch</a>
 
 ---
   <!-- TOPICO 3 -->
